@@ -11,10 +11,10 @@
     "englishBook":" English Books",
 
     
-"where":"1",
+"where":"3",
 "announce":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Others/announce.json",
 "questions":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Others/questions.json",
-"desclaimer":"  ",
+"desclaimer":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Others/desclaimers.json",
 
     
 
