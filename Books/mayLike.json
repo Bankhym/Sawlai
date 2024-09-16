@@ -1,211 +1,1150 @@
 [
-{
-    "Title":"ကံကြမ္မာကိုမယုံကြည်ကြသူများ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/a78m3125c3wjs1htkfks0/.jpg?rlkey=mdhl22v9idbu7swptk74a8j5v&st=lit7yt70&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1laI0MVn6136tXgTYwoyseYiu5aKYZyQS/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ကျွန်မကိုပြန်ကြည့်နေတဲ့ကျွန်မရဲ့အရိပ်  ",
-    "Author":" ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/l91q0ifh7rpor0v96hn5t/.jpg?rlkey=le1nnpqw05p1kcjy33nqksea9&st=grts897q&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1lYVyJx5CBI0hjmbETFKJ2y2pCbZY9EeP/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ကျွန်မချစ်သော ကမ္ဘာမြေ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/2w0ava17no50st0xzii4w/.jpg?rlkey=bwcg3vjs3r8d7teu0qfxnnzaj&st=bdi9uaub&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1lspcj-8oyE7N9yMu16YQO8I40qOso1za/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":" ကျွန်မချစ်သောနိုင်ငံ ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/tgy2gkajssy0ktp6afvh0/.jpg?rlkey=080iv3j3x0jlhta23sl3empem&st=j7zxm4v7&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1lTs7cL9PVWtr1lMfEWBza1a43aFVIQC8/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ကျွန်မချစ်သော မြို့တစ်မြို့  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/jskk9lmchtnsqvlq9amh6/.jpg?rlkey=6gbi5mlfdvlxgs82cgw9zm3ft&st=ddu1wnmx&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1m19VWHBh3scWNRmAt0iaX4QvyNdr89Gi/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ကျွန်မဖတ်ခဲ့သောစာအုပ်များ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/mh8vf9ahymke09up5g5cv/.jpg?rlkey=6mp3znkb40utqrxqrf95rv7n2&st=mq23u6d4&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1l13yz5KWl5_XohLDmW72FZ9nfpr4N-Ec/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ကျွန်မဘဝခရီးမှစာအုပ်များ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/ur1uwzqutanlybl147h9a/.jpg?rlkey=gcymoabbc4r3ykl3af8kq1oii&st=spncgen7&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1nJavaTpoDdqqIpM-bFx_Lqa7wMTTc2LV/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":" ကြယ်စင်တံတားကမ်းပါးနှင်းဖြူ ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/mdovgcdivem9rd26siyyp/.jpg?rlkey=inbpdk4yid5wmqtq7vfxen4rq&st=ck435xoq&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1lyrk1UT6whD_yzy4Bz8bmcAyWiRIqy30/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ကြာတော့သည်လည်းမောင့်စကား  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/m2a7agrw8fe4diztpmslh/.jpg?rlkey=9q40cvpm7c75kq9crupisbiq9&st=tavgn3em&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1mWSk8rZm9hElZzl8bXfTmzVG4yCdBFvR/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ကြေမွသွားသောတိမ်တိုက်များအကြောင်း  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/p7cu1jhn5wy6kwa967amj/.jpg?rlkey=cgr9lwxfne8hm6tavx1lkwcb8&st=8irexqpj&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1l_pDUenL60c89UlaRFCMyMmm6XQp4DWQ/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ကောင်းကင်မပါသောည  ",
-    "Author":"ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/hznfnue0edsb5hj23qolp/.jpg?rlkey=tdmh7h3gu207j3iol9uwe6vs1&st=uh9kibf6&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1n11jWjKLrGYckeIcthaV3-zP6v-Ub6D5/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ချစ်ခြင်း၏အနုပညာ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/lbqbmfvzq2jxz6e5nxmfs/.jpg?rlkey=ivwfn9zhnzcowjig32tmycoue&st=hr5ls2bd&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1mfu9bgQxUWMES8-ViQOSE4nKd-TBCLnF/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"ချစ်သူရေးတဲ့ကျွန်မရဲ့ညတွေ  ",
-    "Author":"ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/tngxjb6xi1a4q9aviinr6/.jpg?rlkey=z65agb3fn7x0m5ig768envo0b&st=bfzun8jx&dl=1   ",
-    "Link":"https://drive.google.com/file/d/1n3jbf9VpuM-Pa_NZMVxsnVaBgC9tl4Xz/view?usp=drivesdk ",
-    "Des":"  "
-  },{
-    "Title":"ချစ်သူလားစကားတစ်ပွင့်ပွင့်ခဲ့တယ်  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/7e3kq4j79uhoixadn6nq3/.jpg?rlkey=gt1pgifdqvcbf1gu8222m8ij3&st=a4chbisc&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1mcMrf9GFqzV8PvvKw3KOTT3s2IQjlSP3/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":" ဆုံနေရက်နဲ့လွမ်းလေခြင်း ",
-    "Author":"ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/1lerdhtnrza6rahmtvilo/.jpg?rlkey=0eft7irmuxd78bx1b6mmg96tf&st=15c4qlcm&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1maju5DONNXBw8gRxPnMqMhkS-EmWLf2w/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"တွေ့ချင်လှပြီ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/k0i0q4bi6q81pkcv8x8ee/.jpg?rlkey=aor76mm8bzyvsvtda78frlfoc&st=5la5aurp&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1mSwYQGO7x_9HyGzVGt8b38wyyxbvQUW3/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":" တိမ်နဲ့ချည်တဲ့ကြိုး ",
-    "Author":"ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/qeuqljlii2wjr98aerdkc/.jpg?rlkey=jyhhotyt8stdw3xlz08ybeacr&st=ho2sfcsh&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1nIeWyfJ4e_07kV0k-Csxf14LQW87Ne2F/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":" နံရံ၏အခြားတစ်ဖက် ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/d8weyagxsl10zubvehhc7/.jpg?rlkey=vmyb9kk8u69ttlka7ho2c2z8y&st=j55ggl4q&dl=1 ",
-    "Link":"https://www.dropbox.com/scl/fi/d8weyagxsl10zubvehhc7/.jpg?rlkey=vmyb9kk8u69ttlka7ho2c2z8y&st=j55ggl4q&dl=1 ",
-    "Des":"  "
-  },
-  {
-    "Title":" နိုဝင်ဘာမိုး ",
-    "Author":"ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/fafmr0e6auvv3bp3c2iyr/.jpg?rlkey=9yea9rx5stvbum76ut5ssaf66&st=mdz8wr4s&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1n6Xf7rA0ZWMKFn5T8qMehr5PfX9_F2ee/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":" ပင်လယ်နဲ့တူသောမိန်းမများ ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/w70o4425db8ljj0f93452/.jpg?rlkey=tdpyau092f5h6k8lzge13cz6z&st=fo7rwi2i&dl=1 ",
-    "Link":"https://www.dropbox.com/scl/fi/w70o4425db8ljj0f93452/.jpg?rlkey=tdpyau092f5h6k8lzge13cz6z&st=fo7rwi2i&dl=1 ",
-    "Des":"  "
-  },
-  {
-    "Title":" မျှော်လင့်ချက်နှင့် အခြားဆောင်းပါးများ ",
-    "Author":"ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/a5ggut58fwt5o4t20iu1x/.jpg?rlkey=8260z32x4d9cqsm2h4dhhatu8&st=mjmun0x9&dl=1 ",
-    "Link":" https://drive.google.com/file/d/1mYejZ29ZwXBAF6l7n4wtPVMsK4_D0msN/view?usp=drivesdk",
-    "Des":"  "
-  },
-  {
-    "Title":"မြစ်တို့၏မာယာ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/nk2vukcszkukd9sz8e0wv/.jpg?rlkey=v7ddy5wg9n0tbeo1aaue7y5kh&st=jzhgrxfb&dl=1",
-    "Link":"https://drive.google.com/file/d/1lAEskRQ-CLS0rxBL3xuwIoOlaLstscgN/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"မိန်းမတစ်ယောက်ရဲ့ဖွင့်ဟဝန်ခံချက်  ",
-    "Author":"ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/ykeyq29fgc5867bo8ulxy/.jpg?rlkey=9l6inhijykebratygcvems196&st=4cfh32r9&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1l436X_5Fs9ADEPsOx3NCi9rz0iED4tCn/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"မောင်တို့ယောကျ်ားတွေ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/buqmsyx42jlnnla9g44wa/.jpg?rlkey=wf5uu6p7u7b4p7ancx66cepbu&st=4v3njfgf&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1lRDRCZu8yCc3qAx2g5dWCQxBDUqvywgt/view?usp=drivesdk ",
-    "Des":"  "
-  },
-  {
-    "Title":"လရဲ့အောက်ဖက်မိုင်အဝေးမှာ  ",
-    "Author":"ဂျူး ",
-    "Photo":"https://www.dropbox.com/scl/fi/p683acbz1tk4ytl1wx0jz/.jpg?rlkey=nol8amfqcroqkkbgm1k17rjoy&st=kjake4kc&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1kl2JpvwYEFsAfDhnEYrPjvHpQhbDAGpT/view?usp=drivesdk ",
-    "Des":"  "
-  },
-    {
-    "Title":"သူမင်းကိုဘယ်တော့မှ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/85sxytjjscsil07r9pltp/.jpg?rlkey=rzrlfkqh35881rk1w4dg9439r&st=0kx6ojas&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1lTCNrNytz8k2J6kVwvgcaMEoS-iGq6_6/view?usp=drivesdk ",
-    "Des":"  "
-  },
-    {
-    "Title":"အချစ်ဆိုတာ ကြိုးနဲ့သီဖို့မလိုတဲ့ပန်းပွင့်လေးတွေနှင့် အခြားဝတ္ထုတိုများ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/sczyzgf7rc278z8gmpkg4/.jpg?rlkey=979tiavs5qu9mqmathxcbpsf4&st=75mvqsfl&dl=1  ",
-    "Link":" https://drive.google.com/file/d/1lFNBcaA7-frsU36MPq51EZo5kNccfR8r/view?usp=drivesdk",
-    "Des":"  "
-  },
    {
-    "Title":"အမှတ်တရ  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/1dgk3tnqbforqrf4e109n/.jpg?rlkey=ccw5hda8oewuto76fckh69ldq&st=u7z9ynau&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1kf04OEj5k4atV1oMXmVh35Fy1EWRhyil/view?usp=drivesdk ",
-    "Des":"  "
-  },
-    {
-    "Title":"အရောင်များနှင့်ကစားခြင်း  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/8gvtpk2164hm5gyt5dne8/.jpg?rlkey=yivzu7267clxynskf3j8dc5oa&st=ozs98o22&dl=1 ",
-    "Link":"https://drive.google.com/file/d/1lNLzNEkUc9rL7A_RFGB2HquNXc2dOjn4/view?usp=drivesdk ",
-    "Des":"  "
-  },
+      "Title":"အီဂျစ်ဘုရင်မာယာရှင်",
+      "Author":"ဦးလေးတင့် နှင့် ဒဂုန်ရွှေမျှား",
+      "Photo":"https://www.dropbox.com/scl/fi/4wn8r0e8yd9bdyqg8qfbl/.jpg?rlkey=p0yjqw9d840lo433bkpwgvy5s&dl=1",
+      "Link":"https://drive.google.com/file/d/1IKSCtglDt5LwBqj6Ad_iFpFV__M-w8BP/view?usp=drivesdk",
+      "Des":""
+   },
    {
-    "Title":"အောက်ခြေသန်းတစ်ထောင်  ",
-    "Author":"ဂျူး  ",
-    "Photo":"https://www.dropbox.com/scl/fi/of643bslk25r1tw7mozwb/.jpg?rlkey=hsdbub9w1bg2kqb4rrkojucvn&st=sz32svv5&dl=1  ",
-    "Link":"https://drive.google.com/file/d/1kfsXGyRWSpsR9gUNY6ub2_FK0k5mPEjO/view?usp=drivesdk ",
-    "Des":"  "
-  }
-  ]
+      "Title":"တဂိုးဝတ္ထုတိုများ",
+      "Author":"မြသန်းတင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/o1lwd8fs2dluu2u2ozzut/.jpg?rlkey=3g7ureij2ky52gsyrrsok0wqy&dl=1",
+      "Link":"https://drive.google.com/file/d/1NeRpN4rRIPVweg07mbUus42tRVctmsAH/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ပုလဲဒေဝီ",
+      "Author":"ဒဂုန်ရွှေမျှား",
+      "Photo":"https://www.dropbox.com/scl/fi/qlsfc5zbc3b89ops6mae5/.jpg?rlkey=lns3n1xjkq0qomco6lsk7rhw6&dl=1",
+      "Link":"https://drive.google.com/file/d/1mgqAnv9NKa56iZ7n9IQ-AznQy7yn6Edt/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဟိုချီမင်း",
+      "Author":"လင်းယုန်မောင်မောင်",
+      "Photo":"https://www.dropbox.com/scl/fi/8gm1szn7w53t0uhskucow/.jpg?rlkey=m1cm91vja389qvrkns190ndyu&dl=1",
+      "Link":"https://drive.google.com/file/d/1iUdepu2ToEmPj2R7hyLYy2xXm9dnPFix",
+      "Des":""
+   },
+   {
+      "Title":"နေဝင်ဘုရင်များ",
+      "Author":"ကျော်အောင်",
+      "Photo":"https://www.dropbox.com/scl/fi/3wf5exs4ldle9ji74ty8y/.jpg?rlkey=d292fg7ovg4xtxvoa4w7aj6ao&dl=1",
+      "Link":"https://drive.google.com/file/d/1KEfKeVgouSeYwuBrK3jjGF6EH1CHADsw/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဂျပန်ဘာ့ကြောင့် အောင်မြင်ခဲ့လဲ",
+      "Author":"မောင်ထွန်းသူ(ဘာသာပြန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/mmwem7snhp3818do821eu/.jpg?rlkey=1ze0y9hcp8s7d2j0fnk6iptsi&dl=1",
+      "Link":"https://drive.google.com/file/d/1b_95J1z36euUtB970ajohTumxzAddEDn",
+      "Des":""
+   },
+   {
+      "Title":"ပီကင်း",
+      "Author":"မောင်ထွန်းသူ",
+      "Photo":"https://www.dropbox.com/scl/fi/qdb7bkox4imm15afgude2/.jpg?rlkey=5x1weu84bprgqdep3v379lwcq&dl=1",
+      "Link":"https://drive.google.com/file/d/1tT8I3Cb6QDpvlK3Jja6WMmhDieDG3eP0/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"နှစ်လောက",
+      "Author":"မောင်ထွန်းသူ",
+      "Photo":"https://www.dropbox.com/scl/fi/zhdwy6km77ohgl2rqg8ey/.jpg?rlkey=z6d1uanhdzudxwicou7mhu9wa&dl=1",
+      "Link":"https://drive.google.com/file/d/1nFyV7u9c08s5EWt0rO335BHwzQio-PYH/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"The Alchemist",
+      "Author":"Holy Ghost",
+      "Photo":"https://www.dropbox.com/scl/fi/sqixxy1c10uxiej0rj5op/The-Alchemist-Holy-Ghost.jpg?rlkey=1daszd8gno28en2084oudyjjl&dl=1",
+      "Link":"https://drive.google.com/file/d/1vkWGiUujz9-hs3B5iGQj5MS7N3tPVB9M/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ရှားလော့ဟုမ်း အထူးစွမ်းဆောင်ခဲ့ရသည့် မှုခင်းများ",
+      "Author":"ဆက်ထွန်းလင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/0fhfc0qj9a50o54lvdov9/.jpg?rlkey=7sapbi92qexoqlek93xax7whx&dl=1",
+      "Link":"https://drive.google.com/file/d/1xy447y85hq415I_wQl_N26UNLwwktMv1/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အိပ်မက်ကမ္ဘာထဲ ပို့ဆောင်သူ",
+      "Author":"မြတ်သက်",
+      "Photo":"https://www.dropbox.com/scl/fi/umwkridqh26utpwlqynl9/.jpg?rlkey=s1b6tx11nw0mehon8v2wklaww&dl=1",
+      "Link":"https://drive.google.com/file/d/1_hlAr-GgdIyZ5UyJt1vxiNf-NKDrRkx5/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အမေရိကန်သမ္မတ ဖရင့်ကလင်ဒီရုစဗဲ့",
+      "Author":"ကျော်သက်ဟန်",
+      "Photo":"https://www.dropbox.com/scl/fi/h35mhxapu4t0x82y84gmv/.jpg?rlkey=zchcme857xa3cwwnfo60amm92&dl=1",
+      "Link":"https://drive.google.com/file/d/1Y5AEmUrDqvBApcBXhqeyYzux8nOsqAS8/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"နည်းပညာတစ်ဖက် အနုပညာတစ်ဖက်နှင့် လူသား",
+      "Author":"နိုင်ရဲကျော်",
+      "Photo":"https://www.dropbox.com/scl/fi/50x0h5dhip0y3kxuf3vrb/.jpg?rlkey=qbhsrq6i2bjc9bltu9ydl06yy&dl=1",
+      "Link":"https://drive.google.com/file/d/11NuAOxYlMenHuz4wNLALP-dnDloaMPU5/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကမ္ဘာကိုကိုင်လှုပ်သူများ",
+      "Author":"ရဲကောင်းထက်",
+      "Photo":"https://www.dropbox.com/scl/fi/jtz1cd6b0sce14666zdsu/.jpg?rlkey=yqh8wtuvs7l4m0ehtp65rroxw&dl=1",
+      "Link":"https://drive.google.com/file/d/11mivD0NeIs0kIsclUIdjEeNJ7dYfT_4W/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အဆိပ်",
+      "Author":"ထိန်လင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/g1cy5rzh408wku6sfm6ko/.jpg?rlkey=gx32jm2yiyydjbddrlwavf745&dl=1",
+      "Link":"https://drive.google.com/file/d/1RIV4YzCK8VyzOKyiGdOeYmDLw-g60t1v/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အယ်ဘတ်အိုင်းစတိုင်း",
+      "Author":"ကောင်းသာ(ဘာသာပြန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/fzl8cnrytz80nu6l2opqq/.jpg?rlkey=mdbea7h8bpjjalgd2pqighjc0&dl=1",
+      "Link":"https://drive.google.com/file/d/1PEHFmSubNhSZcAurbd2puckWAU4xbFyJ/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ခရစ္စတိုဖာကိုလမ်ဘတ်",
+      "Author":"ကောင်းမြတ်မင်း(ဘာသာပြန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/ez66d2trgcgn17lrid0pd/.jpg?rlkey=wtsebmdghx1xiq27tgt7ums0q&dl=1",
+      "Link":"https://drive.google.com/file/d/1jJHlmCleNV005tsNRbRH0WGXxUo0sLvg/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဆွန်ဇု၏ စစ်ပညာကျမ်း",
+      "Author":"စံလှိုင်",
+      "Photo":"https://www.dropbox.com/scl/fi/bn9fkpll9rq093m6x4vhg/.jpg?rlkey=vqeu22o6p4qhivqw2lkiknc62&dl=1",
+      "Link":"https://drive.google.com/file/d/1_F4fqPHolI4_F8Vm2jC5NikAbcc8earz/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘီလ်ဂိတ်ဆောက်တဲ့ဘဝအိမ်",
+      "Author":"ကျော်ဇောဟိန်း(ဘာသာပြန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/74uz99rnsfjocr6pz64w0/.jpg?rlkey=jukhjjjuu1bd41f5dnzjjx5e7&dl=1",
+      "Link":"https://drive.google.com/file/d/1nr7iXg6aR5SvazYRftoSqYpmdbktq20F/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ခရစ်(စ)တီယန်ဘားနဒ်၏ ဘဝတစ်ခု",
+      "Author":"ဒေါက်တာကျော်မြင့်(ဓာတ်မှန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/am61c7mx4p9296klm2rw3/.jpg?rlkey=xbi7wored9wus72qkq1jt92ec&dl=1",
+      "Link":"https://drive.google.com/file/d/1cOZNgMjdqrJUNt-SU-OnLaAR0o_rw1d_",
+      "Des":""
+   },
+   {
+      "Title":"ရေးမူမပျက် ခေတ်သစ်လူ့ဘောင်",
+      "Author":"ကလောချစ်ထွန်း",
+      "Photo":"https://www.dropbox.com/scl/fi/7ysjd4sgvljto1bqstreg/.jpg?rlkey=x8g8523icrka2d5y4033akzum&dl=1",
+      "Link":"https://drive.google.com/file/d/1DZ0rzs9ZDZi_VahrDkLYch1c7CHmDX0r/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဂျိန်းစ်ဒင်းအယ်လ်ဘမ်",
+      "Author":"လူအောင်",
+      "Photo":"https://www.dropbox.com/scl/fi/okd5mskz5opj1hynzsat4/.jpg?rlkey=jqp93gcrrptd7o2mtxhm40nk7&dl=1",
+      "Link":"https://drive.google.com/file/d/1wkIAKsvlw7xPtJuW6qhJS7u_LSoycldk/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"နည်းပညာတစ်ဖက် အနုပညာတစ်ဖက်နှင့် လူသား",
+      "Author":"နိုင်ရဲကျော်",
+      "Photo":"https://www.dropbox.com/scl/fi/50x0h5dhip0y3kxuf3vrb/.jpg?rlkey=qbhsrq6i2bjc9bltu9ydl06yy&dl=1",
+      "Link":"https://drive.google.com/file/d/11NuAOxYlMenHuz4wNLALP-dnDloaMPU5/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကမ္ဘာကိုကိုင်လှုပ်သူများ",
+      "Author":"ရဲကောင်းထက်",
+      "Photo":"https://www.dropbox.com/scl/fi/jtz1cd6b0sce14666zdsu/.jpg?rlkey=yqh8wtuvs7l4m0ehtp65rroxw&dl=1",
+      "Link":"https://drive.google.com/file/d/11mivD0NeIs0kIsclUIdjEeNJ7dYfT_4W/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အဆိပ်",
+      "Author":"ထိန်လင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/g1cy5rzh408wku6sfm6ko/.jpg?rlkey=gx32jm2yiyydjbddrlwavf745&dl=1",
+      "Link":"https://drive.google.com/file/d/1RIV4YzCK8VyzOKyiGdOeYmDLw-g60t1v/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အယ်ဘတ်အိုင်းစတိုင်း",
+      "Author":"ကောင်းသာ(ဘာသာပြန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/fzl8cnrytz80nu6l2opqq/.jpg?rlkey=mdbea7h8bpjjalgd2pqighjc0&dl=1",
+      "Link":"https://drive.google.com/file/d/1PEHFmSubNhSZcAurbd2puckWAU4xbFyJ/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ခရစ္စတိုဖာကိုလမ်ဘတ်",
+      "Author":"ကောင်းမြတ်မင်း(ဘာသာပြန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/ez66d2trgcgn17lrid0pd/.jpg?rlkey=wtsebmdghx1xiq27tgt7ums0q&dl=1",
+      "Link":"https://drive.google.com/file/d/1jJHlmCleNV005tsNRbRH0WGXxUo0sLvg/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဆွန်ဇု၏ စစ်ပညာကျမ်း",
+      "Author":"စံလှိုင်",
+      "Photo":"https://www.dropbox.com/scl/fi/bn9fkpll9rq093m6x4vhg/.jpg?rlkey=vqeu22o6p4qhivqw2lkiknc62&dl=1",
+      "Link":"https://drive.google.com/file/d/1_F4fqPHolI4_F8Vm2jC5NikAbcc8earz/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘီလ်ဂိတ်ဆောက်တဲ့ဘဝအိမ်",
+      "Author":"ကျော်ဇောဟိန်း(ဘာသာပြန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/74uz99rnsfjocr6pz64w0/.jpg?rlkey=jukhjjjuu1bd41f5dnzjjx5e7&dl=1",
+      "Link":"https://drive.google.com/file/d/1nr7iXg6aR5SvazYRftoSqYpmdbktq20F/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ခရစ်(စ)တီယန်ဘားနဒ်၏ ဘဝတစ်ခု",
+      "Author":"ဒေါက်တာကျော်မြင့်(ဓာတ်မှန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/am61c7mx4p9296klm2rw3/.jpg?rlkey=xbi7wored9wus72qkq1jt92ec&dl=1",
+      "Link":"https://drive.google.com/file/d/1cOZNgMjdqrJUNt-SU-OnLaAR0o_rw1d_",
+      "Des":""
+   },
+   {
+      "Title":"ရေးမူမပျက် ခေတ်သစ်လူ့ဘောင်",
+      "Author":"ကလောချစ်ထွန်း",
+      "Photo":"https://www.dropbox.com/scl/fi/7ysjd4sgvljto1bqstreg/.jpg?rlkey=x8g8523icrka2d5y4033akzum&dl=1",
+      "Link":"https://drive.google.com/file/d/1DZ0rzs9ZDZi_VahrDkLYch1c7CHmDX0r/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဂျိန်းစ်ဒင်းအယ်လ်ဘမ်",
+      "Author":"လူအောင်",
+      "Photo":"https://www.dropbox.com/scl/fi/okd5mskz5opj1hynzsat4/.jpg?rlkey=jqp93gcrrptd7o2mtxhm40nk7&dl=1",
+      "Link":"https://drive.google.com/file/d/1wkIAKsvlw7xPtJuW6qhJS7u_LSoycldk/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"တက္ကစီဒရိုင်ဘာတစ်ဦး၏နေ့စဉ်မှတ်တမ်း",
+      "Author":"ခင်စောတင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/mmrhu4e4nld1oj1fis97d/.jpg?rlkey=1h0tnmv2xrv3rwzno039alo34&dl=1",
+      "Link":"https://www.dropbox.com/scl/fi/mmrhu4e4nld1oj1fis97d/.jpg?rlkey=1h0tnmv2xrv3rwzno039alo34&dl=1",
+      "Des":""
+   },
+   {
+      "Title":"ရန်သူနှင့်စကားပြောခြင်း",
+      "Author":"မင်ဒဲလား",
+      "Photo":"https://www.dropbox.com/scl/fi/evv8ywjaxc8i243dl2t17/.jpg?rlkey=jhwezj8no1w4xptlbbs923v3u&dl=1",
+      "Link":"https://drive.google.com/file/d/1N3o9J9curJ0srIiNYtT-Wxki9O6RnMEc/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အိုဘားမားကောက်ကြောင်း",
+      "Author":"လှိုင်ဘွား(စီစဉ်သူ)",
+      "Photo":"https://www.dropbox.com/scl/fi/2mw10gakpcrj6ogmus748/.jpg?rlkey=41hprzn1xdhn16z8u90v94upn&dl=1",
+      "Link":"https://drive.google.com/file/d/1sPhJOpI6IasRuVY2ibu44-v_eIzTiClz/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အချိန်မဖြုန်းနည်း",
+      "Author":"ကြည်မင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/y64gpkxrygggs0jyuo4gp/.jpg?rlkey=gb666s19hhxazg8wvh5ym1ywb&dl=1",
+      "Link":"https://drive.google.com/file/d/1lH8gb0l3qCy1h0oHxo3gzQ1PRQDnv3iK/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"Who is Bill Gates?",
+      "Author":"Aung Pyae(Translator)",
+      "Photo":"https://www.dropbox.com/scl/fi/8jrz0o0hhkjj99imimdjv/Who-is-Bill-Gates-Aung-Pyae-Translator.jpg?rlkey=0vbn23gfrlavn5hj3z06rqniz&dl=1",
+      "Link":"https://drive.google.com/file/d/1dvURJxtjUfBGzVWRt6JBbuVED7plbIQU/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဂရုမစိုက်ခြင်းအနုပညာ",
+      "Author":"ချမ်းမြေ့ဝင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/9uvpmm033nhd90fyjyxjo/.jpg?rlkey=z25b7189jkkz4wocigjmob54g&dl=1",
+      "Link":"https://drive.google.com/file/d/12XpPNBO2FGg6IwVeQOfNACKLMCB_RbR4/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ငွေကြေးတို့ရဲ့အရှင်သခင်ဖြစ်စေဖို့",
+      "Author":"ဖူးကျော်ဇင်",
+      "Photo":"https://www.dropbox.com/scl/fi/rj7231ga2p01mzr0nn0om/.jpg?rlkey=cz2facxa5ti1emjnfebtq7zu6&dl=1",
+      "Link":"https://drive.google.com/file/d/1Z9uZuJbaj1ttyTnGLXFG7NXSX4fxkA1F/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဂလိုဘယ်လိုက်ဇေးရှင်းခေတ် အိုင်ဒီယာစီးပွါးရေး",
+      "Author":"မောင်စူးစမ်း",
+      "Photo":"https://www.dropbox.com/scl/fi/meliconu01n2c3ghudru6/.jpg?rlkey=ie60uslhts3ve0dc16u789l1f&dl=1",
+      "Link":"https://drive.google.com/file/d/1iIbBxmQuEOWXvcPQDP4t36sbCPVvmQOD/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အီလွန်မတ်",
+      "Author":"ဗန်းမော်သိန်းဖေ",
+      "Photo":"https://www.dropbox.com/scl/fi/npzwdahcjvzagtrl8xyln/.jpg?rlkey=ye9a3xk2mjyfgs3uzr06rt380&dl=1",
+      "Link":"https://drive.google.com/file/d/1b2DpjgL2YNigNeWsDSXfmQLjX3jcp9VG/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကတ္တီပါခန်းစီးနောက်ကွယ်မှ ပဥ္စလက်ဆရာ",
+      "Author":"လှမိုး(ပညာရေး)",
+      "Photo":"https://www.dropbox.com/scl/fi/eztx5f8dwdksj88bzafp8/.jpg?rlkey=cghut06dicipa9hwr459fwyk3&dl=1",
+      "Link":"https://drive.google.com/file/d/1_xDRnmn0ndJ9THPeCfg4Cc7x8A6P-zGG/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မုန်တိုင်းထဲကနဖူးစာနှင့် အခြားဝတ္ထုတိုများ",
+      "Author":"မောင်ထင်",
+      "Photo":"https://www.dropbox.com/scl/fi/jqyljtqdg5l1btqceasf6/.jpg?rlkey=g39bhmosaoy52vawv0bjqq8qc&dl=1",
+      "Link":"https://drive.google.com/file/d/1i6e58VRiKXRoE-8nGh4zGD7gEgbBNFVP/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မမြဲသောအရာ",
+      "Author":"Holy Ghost",
+      "Photo":"https://www.dropbox.com/scl/fi/43kmtbs7c17lbyyk06tfr/Holy-Ghost.jpg?rlkey=ewwr9q3sjoth7n88z9czxme8p&dl=1",
+      "Link":"https://drive.google.com/file/d/1Xj-dOqjp7synUx7THG_4_r76rGL_nbOp/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘာပဲဖြစ်ဖြစ်စိတ်မညစ်နဲ့",
+      "Author":"လူချို",
+      "Photo":"https://www.dropbox.com/scl/fi/dcexg77ay5j0aiwyg7jr4/.jpg?rlkey=6xh52nxx7jpuvtzqcpykitn6n&dl=1",
+      "Link":"https://drive.google.com/file/d/17pzcWBdvWbWn8VbdZLBXKYf_1ADHScC4/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘဝတစ်လျှောက်စိတ်အေးချမ်းသာစွာနေသွားနည်း",
+      "Author":"စိုးဝင်းထွဋ်",
+      "Photo":"https://www.dropbox.com/scl/fi/bbjvsoapzsuck0yonv574/.jpg?rlkey=ar18ttkwp1h2fgylbrpzry7bu&dl=1",
+      "Link":"https://drive.google.com/file/d/12v6pCcHbqMmGM0Acy13dUTdjhpu1Pb93/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ရင်ခုန်သံမျှော်လင့်ချက် ဒေါ်အောင်ဆန်းစုကြည်အင်တာဗျူး",
+      "Author":"မောင်ဆန်းကြယ်",
+      "Photo":"https://www.dropbox.com/scl/fi/9gq4qq4109smsl11g3jg7/.jpg?rlkey=bsh4jozb7hsdcvmxtq7akdj38&dl=1",
+      "Link":"https://drive.google.com/file/d/1Wb2ibL1QBPSOTwu19blv9CtAH40bYSdS/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"တစ်သက်တာမှတ်တမ်းနှင့်အတွေးအခေါ်များ",
+      "Author":"ရွှေဥဒေါင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/15l78ptmayag7j6v56bfc/.jpg?rlkey=4v6mtlicwidc6i64qgfctp56k&dl=1",
+      "Link":"https://drive.google.com/file/d/18h5q5WwoK0ax5Sjt7aEVf50JMz4Xq8GM/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဗီးနပ်စ်ရဲ့တတိယတောင်ပံ",
+      "Author":"မိုးဆက်လင်းထက်",
+      "Photo":"https://www.dropbox.com/scl/fi/i5a0jsc85yf1gk37zq8ij/.jpg?rlkey=fbw5pi1sc4o3yimfvgjorjh9i&dl=1",
+      "Link":"https://drive.google.com/file/d/14nVaSbK3_fuPMADluzAXsEpsTFA2M62E/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အပျိုစင်တို့သိဖို့ ယောက်ျားတို့အကြောင်း ၂",
+      "Author":"ကံချွန်",
+      "Photo":"https://www.dropbox.com/scl/fi/7hsseip3wgijydys3cbk7/.jpg?rlkey=0sy52859w2nwwrc5yu9zehyh9&dl=1",
+      "Link":"https://drive.google.com/file/d/1thfAWo3xVWXNs-cdCCqZcT7sAPd1yFMC/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"လင်္ကာဒီပချစ်သူ",
+      "Author":"ချစ်ဦးညို",
+      "Photo":"https://www.dropbox.com/scl/fi/wfajj3m2b4ax8640ml8ri/.jpg?rlkey=4zi43qg0bvq6ik1tp68wm8n6w&dl=1",
+      "Link":"https://drive.google.com/file/d/1LfLY-ChZGsnfR8pNNx5wx5a2V3mwrpQH",
+      "Des":""
+   },
+   {
+      "Title":"နယ်စုံကွန့်မြူးဆန်းထွေထူး",
+      "Author":"ရွှေဥဒေါင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/qclmfyufxorwridwwjydg/.jpg?rlkey=tjl5qg0qag218qvf5rhi477h9&dl=1",
+      "Link":"https://drive.google.com/file/d/1ZzM4W9EBSaXWVJ6p37ftdtCFO_8qZ-bb/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မန္တလေးမြို့ကလူတွေအကြောင်း",
+      "Author":"ကံချွန်",
+      "Photo":"https://www.dropbox.com/scl/fi/plfimbmea1ocf2fj8khbo/.jpg?rlkey=5oj4svkese5a8pfxy7dn8xguj&dl=1",
+      "Link":"https://drive.google.com/file/d/1lKuGtSiorkwnETbVowAt0NhrqFrIrvWR/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"သူသည်ကဗျာဆရာတစ်ယောက်ဖြစ်သည်",
+      "Author":"တာယာမင်းဝေ",
+      "Photo":"https://www.dropbox.com/scl/fi/lr89vf4yf1hpfu0sy608t/.jpg?rlkey=uv3zn5divn4urj5k76l5ft2xy&dl=1",
+      "Link":"https://drive.google.com/file/d/1qLkBX7mEbOc8UvNXnmxXG7HSU_WpKl3g/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"သင့်ကြောင့်သရဲစိတ်မညစ်ပါစေနှင့်",
+      "Author":"ပြည့်ပိုင်မှူးအိမ်",
+      "Photo":"https://www.dropbox.com/scl/fi/tyncxgfqtzf7sx35uou7j/.jpg?rlkey=dwy4i5wqp2hc0ru87dmih8sf5&dl=1",
+      "Link":"https://drive.google.com/file/d/1xHFU3SdGI-bakGr1USPxxUr-I72CLwqG",
+      "Des":""
+   },
+   {
+      "Title":"အချစ်ဘဝနှင့်ငွေကြေးဆိုင်ရာနည်းဗျူဟာများ",
+      "Author":"သန်းမြင့်ဦး",
+      "Photo":"https://www.dropbox.com/scl/fi/vlpr2uhsct5pm1rs69wkc/.jpg?rlkey=qxhq2rk5dk5e78ofwf3bnq1mk&dl=1",
+      "Link":"https://drive.google.com/file/d/1R-QvKa-2cGPDSbg70spckXVciSOnrF1g",
+      "Des":""
+   },
+   {
+      "Title":"အဂ္ဂါအယ်လင်ပိုး",
+      "Author":"ရန်နောင်ဦး",
+      "Photo":"https://www.dropbox.com/scl/fi/qjxml7vh369iwkaln01jo/.jpg?rlkey=aoys1v99fd2csbofv7tdkh845&dl=1",
+      "Link":"https://drive.google.com/file/d/12WTf3zLIWBlxRj4HURvCgw-XXD3CC10e/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကုတ်အင်္ကျီ",
+      "Author":"လင်းဝေမြိုင်",
+      "Photo":"https://www.dropbox.com/scl/fi/gw7em6odhyguwl1cedmfl/.jpg?rlkey=b6wghxlnkmg29za83s9gr9ucd&dl=1",
+      "Link":"https://drive.google.com/file/d/1H1TqZe78J7UArmrIaaOBVL72skemtPcF/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"နောက်ဆုံးပေါ်လိမ်နည်းနှင့်ဂျက်ဖရီအာချာလက်ရွေးစင်ဝတ္ထုများ",
+      "Author":"စိုးသိဏ်း",
+      "Photo":"https://www.dropbox.com/scl/fi/u85dwvlfr260qc83typ88/.jpg?rlkey=aemyseuuf7nvo7g0fnlcjpo6p&dl=1",
+      "Link":"https://drive.google.com/file/d/1fCgsXmgAg-sEXisR0APqemvfi-CNeygc",
+      "Des":""
+   },
+   {
+      "Title":"၂၀ ရာစုနာမည်ကျော်ပုဂ္ဂိုလ်ကြီးများ",
+      "Author":"ဘာသာပြန်စာအုပ်",
+      "Photo":"https://www.dropbox.com/scl/fi/c95tqkrlqf3m1t715c5dg/.jpg?rlkey=32h007z9g08ivi6ostynqn6yc&dl=1",
+      "Link":"https://drive.google.com/file/d/1vHV4CznwgZJN7kB7eQnaHXsW3lrWlFng/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"သူတို့သိသော အိုစမာဘင်လာဒင်",
+      "Author":"ထက်မြက်",
+      "Photo":"https://www.dropbox.com/scl/fi/up08a8iuh8104oc1l9dyg/.jpg?rlkey=04e6d5vw6n32i153cxvq18qjj&dl=1",
+      "Link":"https://drive.google.com/file/d/1Ije7-whN9OZeoFRUwgYM6SM1QyhiU8_k/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အိုဟင်နရီ၏ ဝတ္ထုတိုများ",
+      "Author":"မောင်ထွန်းသူ",
+      "Photo":"https://www.dropbox.com/scl/fi/9263mdmdemk4hh0ne2kih/.jpg?rlkey=r2qf8ukox8rhsrywnfx9fz3wx&dl=1",
+      "Link":"https://drive.google.com/file/d/1nT3exRl5ZVt9Bw5TQ9ihW-saOS6Plv4s/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကမ္ဘာ့စာပေ တစ်စေ့တစ်စောင်း",
+      "Author":"နတ်နွယ်",
+      "Photo":"https://www.dropbox.com/scl/fi/ld0w69n1bizx1t2rymlah/.jpg?rlkey=ppj9vgi2x1e6fmn4cq4pl5mjq&dl=1",
+      "Link":"https://drive.google.com/file/d/1jH1hcl4KDeOV1CJ5bOP0u2_iOrkop1nR/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကျွန်မင်းသား",
+      "Author":"ဒဂုန်ရွှေမျှား",
+      "Photo":"https://www.dropbox.com/scl/fi/pi6zjo25uipzjzmtrdib6/.jpg?rlkey=yafdhqps4pwd5871qnwo3rd06&dl=1",
+      "Link":"https://drive.google.com/file/d/19kG5Fa-02bt3XCHLTMvQVJQVG2cbwQml/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဖိနပ်ခြောက်ရန် ဆောင်ရွက်နည်း",
+      "Author":"မြတ်ငြိမ်း",
+      "Photo":"https://www.dropbox.com/scl/fi/qz68zj2woz0gmvgy0abv3/.jpg?rlkey=7nksj9mk87kgmj193n4y0fbm5&dl=1",
+      "Link":"https://drive.google.com/file/d/1Q4xH4QEtpaz1dqsfzmxyHkjVv83t2M8b/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"လူသစ်ပင်နှင့်ဖြစ်ရပ်ဆန်းကြယ်ဝတ္ထုများ",
+      "Author":"ဒဂုန်ရွှေမျှား",
+      "Photo":"https://www.dropbox.com/scl/fi/ubg2moh43zmgenr032cbn/.jpg?rlkey=qjdvs35hgjhh5aio56juic4s6&dl=1",
+      "Link":"https://drive.google.com/file/d/1p6b2s9gUTD0NTF2UoKck6MEkAy_2kEPD/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဒက်ဇယ်လာ",
+      "Author":"နတ်နွယ်",
+      "Photo":"https://www.dropbox.com/scl/fi/tg44qfc1peu7qm0u69hvv/.jpg?rlkey=g1vsjscbu5lzpab57s2ugrhv2&dl=1",
+      "Link":"https://drive.google.com/file/d/1_4OrXxhNhYKSM_6ISOdQoHAOK-Hn-8DI/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မိုရေးဗီးယား၏အတိုင်းအတာများနှင့် အခြားဝတ္ထုတိုများ",
+      "Author":"နတ်နွယ်",
+      "Photo":"https://www.dropbox.com/scl/fi/ebcdl7gsowb6erkrlgin3/.jpg?rlkey=u1u5cnfxsomr4cye9qzif9r1g&dl=1",
+      "Link":"https://drive.google.com/file/d/103v2ngwa0xqB16aIMlBBWlcvX0tOJaG_/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"လက်သုံးတော်ဓား",
+      "Author":"အောင်ခန့်",
+      "Photo":"https://www.dropbox.com/scl/fi/jxgi1d4g778xgt7bjzugs/.jpg?rlkey=eaqed3du1125mn499i7nvtgki&dl=1",
+      "Link":"https://drive.google.com/file/d/1K9JaYOhTuXYwKP6rDOpaywCAp74LW_zN/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကမ္ဗလာနီအောက်ဝယ်",
+      "Author":"ဒဂုန်ရွှေမျှား",
+      "Photo":"https://www.dropbox.com/scl/fi/qz6t5qnfm12offqp4se9e/.jpg?rlkey=xb4ur5l300cfde8n2onvuueei&dl=1",
+      "Link":"https://drive.google.com/file/d/12hZaOKhyRqRakaLkFTU5EfDNURybwCyA/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အရှေ့လေနဲ့အနောက်လေ",
+      "Author":"Pearl S. Buck (1930)",
+      "Photo":"https://www.dropbox.com/scl/fi/f1q046fyp9xbs8ld30mzd/Pearl-S.-Buck-1930.jpg?rlkey=y9k8nvola1ke46s0s3tbb2pzl&dl=1",
+      "Link":"https://drive.google.com/file/d/1Dl5A5UkkE5Vro3oFAItzPDM0aWjLTTzY/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ရေအောက်တစ္ဆေ",
+      "Author":"နတ်နွယ်",
+      "Photo":"https://www.dropbox.com/scl/fi/d3hna7c7sk5n10yf1qhok/.jpg?rlkey=z9cih80exv1d6avnsg6xc16x8&dl=1",
+      "Link":"https://drive.google.com/file/d/11csfofcK07FhInEkg3Roj_aWKXF6URpK/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"လေယာဉ်ပြန်ပေးနှင့် အစ္စရေးဓားစာခံ",
+      "Author":"မောင်မောင်ညွန့်",
+      "Photo":"https://www.dropbox.com/scl/fi/wkmxwis0yhgxaw48yugn0/.jpg?rlkey=ttabejhmpzwi9sdjsnkfaheab&dl=1",
+      "Link":"https://drive.google.com/file/d/1LCHAcOtvQgItt8p32pDpOIzjrHCSd0W3",
+      "Des":""
+   },
+   {
+      "Title":"နေဘုရားသားတော်",
+      "Author":"အောင်ခန့်",
+      "Photo":"https://www.dropbox.com/scl/fi/8hpsdfpwqx73t6ikst6u1/.jpg?rlkey=11uxc9wn8nrvuxt9u28b2jd6e&dl=1",
+      "Link":"https://drive.google.com/file/d/1k3kqI7bl1_dXcP5Ogirck56C3P1bJPrf/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အလည်လာတဲ့မိန်းကလေးရယ်",
+      "Author":"နတ်နွယ်",
+      "Photo":"https://www.dropbox.com/scl/fi/b0xjagljvst9li4qjv2uk/.jpg?rlkey=t4kidt25l4e6a8dg9sr89am13&dl=1",
+      "Link":"https://drive.google.com/file/d/1RmLutXzXWQ4i97SRUBXWwkJgk4K-xD8D/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘယ်သူ့ဒိန်ခဲငါနေရာရွှေ့လို့ရမည်လဲ",
+      "Author":"မြတ်ငြိမ်း",
+      "Photo":"https://www.dropbox.com/scl/fi/9y1iwn02sqeql7v1jcrpp/.jpg?rlkey=enfnevsbvg9gz60y7ezhqvygc&dl=1",
+      "Link":"https://drive.google.com/file/d/1jmI_tz0AwyfnHo_CF-zRdY75umT9OemI/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ငါ့ဘဝ ငါသာသခင် ငါသာဘုရင်",
+      "Author":"မောင်ပေါ်ထွန်း",
+      "Photo":"https://www.dropbox.com/scl/fi/pmcz9l07gffhp09llidhz/.jpg?rlkey=0svaccqey7nwnkoz021utrt8y&dl=1",
+      "Link":"https://drive.google.com/file/d/1k6LmlsVT1FayLhn_d6L1O15sq8XvNt8T/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ပလီဇာချဲ့ လှိုင်းရဲ့သံစဉ်",
+      "Author":"မိချမ်းဝေ",
+      "Photo":"https://www.dropbox.com/scl/fi/jup3hu9pjdvcd7uyx5wks/.jpg?rlkey=cm4zky72ukzeitf04p955vlj7&dl=1",
+      "Link":"https://drive.google.com/file/d/11rUo32whxBXrNRPAXBoU2707drDqaOQx/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကမာရင်ကွဲနဲ့ အခြားပင်လယ်ဝတ္ထုတိုများ",
+      "Author":"မိချမ်းဝေ",
+      "Photo":"https://www.dropbox.com/scl/fi/w6ull3c2qqauhw2efqx1g/.jpg?rlkey=zm6f0p8rh03cari02ywm6ngaz&dl=1",
+      "Link":"https://drive.google.com/file/d/1anM-2RbHtP_xwBttY6pgVEhgWBr1M8Cj",
+      "Des":""
+   },
+   {
+      "Title":"ချစ်လို့စတာ … နာတယ်",
+      "Author":"အကြည်တော်",
+      "Photo":"https://www.dropbox.com/scl/fi/lit6kwp7zdqbodkxhe2xa/.jpg?rlkey=8jqmvtkaqcutrer4kp3t74rgo&dl=1",
+      "Link":"https://drive.google.com/file/d/1ru5jmLidpNWIIlL418fz3RFfsGgxBSwB/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ရီတန်းအောဖ့် ဘီလူး",
+      "Author":"အကြည်တော်",
+      "Photo":"https://www.dropbox.com/scl/fi/s547cr7dev7yjpzlz4ord/.jpg?rlkey=gzg5qz67gdiyc1encqelpbslj&dl=1",
+      "Link":"https://drive.google.com/file/d/1yuS6s-Z0pY010vh3zxzkpOrFhvQFVhT4/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"နတ်နေကိုင်း",
+      "Author":"အကြည်တော်",
+      "Photo":"https://www.dropbox.com/scl/fi/v7vp804gg77240chjhaf6/.jpg?rlkey=hc8i0brfhfeu7235fz7vm27d1&dl=1",
+      "Link":"https://drive.google.com/file/d/16HrpNdROtlUjcbFGKaWD2M5KaCWo-6II/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"သဲလှည်း",
+      "Author":"အကြည်တော်",
+      "Photo":"https://www.dropbox.com/scl/fi/tuu3aj72njxxp6ih6jo5y/.jpg?rlkey=djxpco7voyfannknraoy8ozoy&dl=1",
+      "Link":"https://drive.google.com/file/d/1ztrJ47xbzYzt3PJdMDOiZ0vUZc21UAI3",
+      "Des":""
+   },
+   {
+      "Title":"ပဥစ္စလက်ရွာ",
+      "Author":"အကြည်တော်",
+      "Photo":"https://www.dropbox.com/scl/fi/agqn5qh6k9t5udl67x1xv/.jpg?rlkey=ubotpw60z2ucsv8glhj33nzq8&dl=1",
+      "Link":"https://drive.google.com/file/d/1p4mc6K9WijMS3X9-tLX91bK9eTxQy5fN/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မြောက်ဖျားကအလွမ်းရာသီ",
+      "Author":"စံပယ်ဖြူနု",
+      "Photo":"https://www.dropbox.com/scl/fi/w4daivbzhfr8lp835sd4u/.jpg?rlkey=b0cxasu40tc0640hecnc445qr&dl=1",
+      "Link":"https://drive.google.com/file/d/1spKRTNnGdNePV8J1YXbFY2A-tTSVyehd/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ရှေးရှေးတုန်းကကံ့ကော်ပွင့်တွေ",
+      "Author":"စံပယ်ဖြူနု",
+      "Photo":"https://www.dropbox.com/scl/fi/oovsud2cka56gpnuuv4va/.jpg?rlkey=522u2dc3ug3jkfl18rvdjie9r&dl=1",
+      "Link":"https://drive.google.com/file/d/11PW02wq3YOteH8gForFZOmlFG1r_dnEe/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကျွန်မပညာသည်",
+      "Author":"ကြည်အေး",
+      "Photo":"https://www.dropbox.com/scl/fi/u0w0uhzkosdtnzvokuhfm/.jpg?rlkey=fnk2p8vbsn0ynkpdlerx2vfwl&dl=1",
+      "Link":"https://drive.google.com/file/d/1VP8YWz2kRXvJWSQd81r4AHm2rSed5Igg",
+      "Des":""
+   },
+   {
+      "Title":"အပြာ-အဝါ",
+      "Author":"နတ်နွယ်",
+      "Photo":"https://www.dropbox.com/scl/fi/q18fg33exwyszjsau5c0s/.jpg?rlkey=kj26paghb2ge7z66s1et245rv&dl=1",
+      "Link":"https://drive.google.com/file/d/1V9C4TEx5T73Vanyi--pmQ86YZJV4yCuI/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဆောင်ကြာမြိုင်မှတ်တမ်း",
+      "Author":"ချစ်စိန်လွင်",
+      "Photo":"https://www.dropbox.com/scl/fi/fj5rd12cjw45ntjf33d86/.jpg?rlkey=ccr4mki4sp4687cypv400xig1&dl=1",
+      "Link":"https://drive.google.com/file/d/1uBNzb9go2BT1FBYzt_T_CGHElLmYy2cO/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ထူးဆန်းအံ့ဖွယ် ပရလောကနယ်",
+      "Author":"ကြည်ဦး",
+      "Photo":"https://www.dropbox.com/scl/fi/dipkgp92h2pe6nhtf185k/.jpg?rlkey=puj47f5ivjg7kje5abpermzbh&dl=1",
+      "Link":"https://drive.google.com/file/d/15ujwvYtMJYJgj0K3wGMZW7s-fwDL-odI/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အာဖရိကဧကရီ",
+      "Author":"နတ်နွယ်",
+      "Photo":"https://www.dropbox.com/scl/fi/9cjdkr7ry3s1c2bn6p1tf/.jpg?rlkey=ch5vr7n4b6j8wcqfefo7guv4b&dl=1",
+      "Link":"https://drive.google.com/file/d/1vI89tDNqWR-Vz1BDQfPgAbjRCg99OumF/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကောလိပ်ကျောင်းသား",
+      "Author":"ဇဝန",
+      "Photo":"https://www.dropbox.com/scl/fi/3rjpnh685l4qht13sketr/.jpg?rlkey=3j8j5sj43lrlq3lvtpairavip&dl=1",
+      "Link":"https://drive.google.com/file/d/1Lwjme3CeKgoBLmbbxGO3zC7PkpTYlPzL/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မူမှန်စိတ် မူမှန်အတွေး မူမှန်အကျင့်အကြံ ၁",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/6k1m893t5xb1esy2255lw/.jpg?rlkey=t5q9xchs08nqhrgrc07s4e5ed&dl=1",
+      "Link":"https://drive.google.com/file/d/10WYAnPYYJ_7n7XUzxfxCC5t-6BOS7N6b/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဆတ်သေချောင်းဒဏ္ဍာရီ",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/a4b7r2lhjn92irq3anese/.jpg?rlkey=qog1nc0y34tmrkf1znb4vht95&dl=1",
+      "Link":"https://drive.google.com/file/d/1sHU9b4oPx-WWQV34jxQtzz56FuxjrHvK/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မဖြစ်နိုင်ဘူးဆိုတာသေချာပြီလား",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/aa27clwuezje6lacrz03f/.jpg?rlkey=70ze5z7tokmpx8fx31bv3w1js&dl=1",
+      "Link":"https://drive.google.com/file/d/1QNMlqk_FUTDwfEzhzmLjvltZkAENSmF9/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ရုပ်တုကျိန်စာ",
+      "Author":"ဒဂုန်ရွှေမျှား",
+      "Photo":"https://www.dropbox.com/scl/fi/iiny76fd8z41kdgcfk8pu/.jpg?rlkey=3xval0no5g5bn64gdze0hdjws&dl=1",
+      "Link":"https://drive.google.com/file/d/1rbHe1sXeC0MMyz39CVL6l_cStjIPEQJf",
+      "Des":""
+   },
+   {
+      "Title":"အောင်မြေ",
+      "Author":"အကြည်တော်",
+      "Photo":"https://www.dropbox.com/scl/fi/aiznlzgcjiocv5dtptsxd/.jpg?rlkey=w2fqimod5oc72kc3uvfhywnje&dl=1",
+      "Link":"https://drive.google.com/file/d/1IM7zaOvUXYjyRNOTSzyL_844bpN0pERE/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အိုင်ကျူမည်မျှပုံ၍ယုံရမည်နည်း",
+      "Author":"တက္ကသိုလ်ဘုန်းနိုင်",
+      "Photo":"https://www.dropbox.com/scl/fi/l7m1azbq4am0ydvh9bkjs/.jpg?rlkey=lhk9x7rkfhlr1at3ouiehcsfj&dl=1",
+      "Link":"https://drive.google.com/file/d/1WKQqNIi8CfVBX0azWHHAGRvAV07uLtv8",
+      "Des":""
+   },
+   {
+      "Title":"မဟာရာဇဝင်ကြီး",
+      "Author":"ဦးကုလား",
+      "Photo":"https://www.dropbox.com/scl/fi/qhvkwh6wbc8dklqy87t7g/.jpg?rlkey=gcx1bzhpkxkecywbhu5gltu7y&dl=1",
+      "Link":"https://drive.google.com/file/d/1fuHthcqaeGhSi7MR8EythmXaRbA2ac7Y/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘဝခရီးသည်",
+      "Author":"ပါရဂူ",
+      "Photo":"https://www.dropbox.com/scl/fi/ivseh4znbsqcn4pzagh9r/.jpg?rlkey=11xm0s4i6fslf3khotr54z36f&dl=1",
+      "Link":"https://drive.google.com/file/d/1rRLiAUQ7BmwQ_8nfgg2e56CQ4iIzWDmh/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မနက်ဖြန်များကိုဖြတ်သန်းနေသောစိတ်ကူးများ",
+      "Author":"နန္ဒာသိန်းဇံ",
+      "Photo":"https://www.dropbox.com/scl/fi/yd58lgq6wmghfwqb99k2p/.jpg?rlkey=qx72dee2cmfzstxht5893c2t9&dl=1",
+      "Link":"https://drive.google.com/file/d/1GHthGC06e83A95DdzS0ZkKui755thIii/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အရိမဒ္ဒနမှ တွေးမြင်ရနံ့တို့ ဝေ့ပျံ့နေဆဲ",
+      "Author":"နန္ဒာသိန်းဇံ",
+      "Photo":"https://www.dropbox.com/scl/fi/kh8t83monyydk5g0qafu2/.jpg?rlkey=5wuhwuns689o3ul8mtafio3fy&dl=1",
+      "Link":"https://drive.google.com/file/d/1NmhuZp2ElB1yXlcLUx1vy31SQWiHjvyj",
+      "Des":""
+   },
+   {
+      "Title":"အိုင်အိုဒင်းကိုကိုကြီးနှင့်",
+      "Author":"အကြည်တော်",
+      "Photo":"https://www.dropbox.com/scl/fi/2522uadi010ds093dclf4/...jpg?rlkey=c11wbgt8dmlbtvvxyfijz5ew5&dl=1",
+      "Link":"https://drive.google.com/file/d/1xC-YEuiaeUtfN2gUaYKb4XVRJD_uL8xl/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ငပလီကခရု",
+      "Author":"ပြည့်ပိုင်မှူးအိမ်",
+      "Photo":"https://www.dropbox.com/scl/fi/zhtx49itilp8lmr2mf26l/.jpg?rlkey=jwoexcwgtoiktvq25jqlcls4e&dl=1",
+      "Link":"https://drive.google.com/file/d/1sIYM7CYzEMlKmSNeKDbQHBfVNDDUi1ah/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"သားဘီလူး",
+      "Author":"အကြည်တော်",
+      "Photo":"https://www.dropbox.com/scl/fi/7w3715n0q23jkzbvs2t5i/.jpg?rlkey=9e4oto818qkci7q5mj9titze1&dl=1",
+      "Link":"https://drive.google.com/file/d/13KpDpe9dfLJ2goVPNFhT3Xt7c_XUq5BA/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"နှစ်ပေါင်း ၂၀၀ မြန်မာ့ဆေးပညာ",
+      "Author":"သုတေသနစာတမ်းများ",
+      "Photo":"https://www.dropbox.com/scl/fi/xgn25apl2i9vc6i64rygn/.jpg?rlkey=4z6odm9kkihq6u7ibijjw50h4&dl=1",
+      "Link":"https://drive.google.com/file/d/1abwKOh_vQ2nz3kJpIFUxzHE3NzOgmTX0/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"၁၀ ရက်အတွင်းယောက္ခမသိမ်းသွင်းနည်း",
+      "Author":"ပဥ္စမံဒီရိုင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/laljgaz8c54d9ir8m9rqo/.jpg?rlkey=4aj0x8ttbo5u2hpbzmddumevg&dl=1",
+      "Link":"https://drive.google.com/file/d/1uPeJTvKinsY6kZmQ0xiJsxGvMO7b42an/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ပျားတစ်စက်",
+      "Author":"အဏ္ဏဝါစိုးမိုး",
+      "Photo":"https://www.dropbox.com/scl/fi/30w86p5ts6ll9yqzz1xb8/.jpg?rlkey=jn36za43avr88zp51knp6a62m&dl=1",
+      "Link":"https://drive.google.com/file/d/1qVTBTrUzaY6n-lkUbPrYt4xmzo1EaRW9/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဂျုလိယက်ဆီဆာ",
+      "Author":"မန်းတင်",
+      "Photo":"https://www.dropbox.com/scl/fi/c3w0ut90ckz0wi7vmfi5a/.jpg?rlkey=fghfcl8jby6tm3xzltpopfnhp&dl=1",
+      "Link":"https://drive.google.com/file/d/1hdFsYrQRc8lanT6yU9RinbWaj9rLC6FZ/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အရိုးကျိုးသည်အထိ မစောင့်ပါနှင့်",
+      "Author":"ဒေါက်တာလဲ့လဲ့ဝင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/hpyzp48wgcezaxtp3fe0m/.jpg?rlkey=98a8f1og4lfb76vdf32kv0hf3&dl=1",
+      "Link":"https://drive.google.com/file/d/1MG93JXkATrAKoHyAtjPaHEfYkwirWB_F/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"နိုင်ငံတကာ စကားပုံများ",
+      "Author":"ခင်မောင်တိုး(မိုးမိတ်)",
+      "Photo":"https://www.dropbox.com/scl/fi/jn2wg6celm8f7hcmt8w5d/.jpg?rlkey=yd1u2vn7752hvil9grgfbbax5&dl=1",
+      "Link":"https://drive.google.com/file/d/1k5_8pG6NlP1j-hw6Tief2P6Ez7SC0jWA/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အာရှနိုင်ငံများကို ဖဲ့ယူသိမ်းယူခဲ့ကြသည့်နယ်ချဲ့များ",
+      "Author":"ဒေါက်တာမတင်ဝင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/v0wletmfbaaewi5qvg0gr/.jpg?rlkey=n1e2snck2nt0wef8vxcghlgcn&dl=1",
+      "Link":"https://drive.google.com/file/d/1rWOTfnvZT70WZvzUAHsSiA_bhjl-zsg4/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စနစ်တကျ လေ့ကျင့် တည်ဆောက်ထားသော",
+      "Author":"စိတ်၏ သတ္တိစွမ်းအားများ",
+      "Photo":"https://www.dropbox.com/scl/fi/oyrothak9n7irweqy86pr/.jpg?rlkey=3ab2qn7d7hi80ei0rzakgx3c1&dl=1",
+      "Link":"https://drive.google.com/file/d/15Psy7FZoIB11OaH6wuzz5Mq3s6JJ8AUS/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အိန္ဒိယမှ မြန်မာပြည်မြောက်ပိုင်းကိုဖြတ်၍ တရုတ်ပြည်သို့ခရီးကြမ်း (ကျောက်စိမ်းမြေ)",
+      "Author":"နိုင်ဦး",
+      "Photo":"https://www.dropbox.com/scl/fi/zlzls9ae0s15p02639zt0/.jpg?rlkey=ue5d5v4v6kw8rndocs72mdgxa&dl=1",
+      "Link":"https://drive.google.com/file/d/1b__XlS2ZnHcEZN7ty5wKZ_8RFP6gpmsh/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အိပ်ဇိုးဒပ်",
+      "Author":"မောင်မိုးသူ",
+      "Photo":"https://www.dropbox.com/scl/fi/x1zypmznysxxs9mpdhk7q/.jpg?rlkey=yqd8fnyanpdwkkz6ppglumdel&dl=1",
+      "Link":"https://drive.google.com/file/d/1lCROXTKdC9StSGri6P_sQx4TQJeWidPl/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"တစ်မျိုးညာနွဲ့ သွေမဖယ် စိုးပါနဲ့မေရယ်",
+      "Author":"နွမ်ဂျာသိုင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/ep3fvshyrnsh08fbflfdk/.jpg?rlkey=8esvz7ibvl5a8isnn0admjf2z&dl=1",
+      "Link":"https://drive.google.com/file/d/19L3SB9aBP0jrT8F7iLA3bYMCJJSehVJh/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"လွမ်းလေကညင်း",
+      "Author":"နွမ်ဂျာသိုင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/kn5xfh35g55pr9umprikl/.jpg?rlkey=v12ua3pvjis1rmciz9bcf3asg&dl=1",
+      "Link":"https://drive.google.com/file/d/1MKGNtMrdmcYbKz7FhkUwZ-snWqumLZzR/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အောင်သန်း၏အောင်ဆန်း",
+      "Author":"အောင်သန်း",
+      "Photo":"https://www.dropbox.com/scl/fi/onawxfw0vjur3f71meqh8/.jpg?rlkey=k9507uqepzip0eaffp2sgd4w4&dl=1",
+      "Link":"https://drive.google.com/file/d/16A3Q-JZlrieqvSXZwJMztfPeVd6ZU9et/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ပုဂံသူရဲကောင်းများ",
+      "Author":"သော်တာဆွေ",
+      "Photo":"https://www.dropbox.com/scl/fi/yndec23a1xvpl6p8394cp/.jpg?rlkey=fpyqnojylvc839fcwsizgx0qg&dl=1",
+      "Link":"https://drive.google.com/file/d/1Lkrj3MiAZda70AvvOgHYX23lrdHZLbLk/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"လွန်ခဲ့သော နှစ် ၂၂၀၀ အထောက်အထား",
+      "Author":"ဘုန်းတင့်ကျော်",
+      "Photo":"https://www.dropbox.com/scl/fi/oyp7n1q0fkpy36yeatxta/.jpg?rlkey=jd4jkq99izaqc2v85mtyi1jzf&dl=1",
+      "Link":"https://drive.google.com/file/d/1U9ZfyTHzuqs2AwwBdmWa63XN1K4oYxeH/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"တို့မေမေ",
+      "Author":"မဟာဆွေ",
+      "Photo":"https://www.dropbox.com/scl/fi/dr26bj9eci189yufhiowm/.jpg?rlkey=qfpxdiy7h2arznu8k4ftyjl9b&dl=1",
+      "Link":"https://drive.google.com/file/d/1j0zGixSDjGxJ2MXNMIhG0tgsAZqX7R9v/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ခေတ်ပြိုင်ခဲခြစ်ကောက်ကြောင်းများ",
+      "Author":"မောင်သာချို",
+      "Photo":"https://www.dropbox.com/scl/fi/rlrr8fsqbf9qmvvz8byq1/.jpg?rlkey=ci08e8wcjpqg76ovkg6tzeu9n&dl=1",
+      "Link":"https://drive.google.com/file/d/1v1YeaZrn2YRnxivK78BOrARxYOhfNrZ0",
+      "Des":""
+   },
+   {
+      "Title":"ဆူးငှက်ဇာတ်လမ်း",
+      "Author":"ဝတ္ထုစု",
+      "Photo":"https://www.dropbox.com/scl/fi/awwga19h3osjlkm4vsoyw/.jpg?rlkey=rdadskk6gbpjautl6v4cn5ymk&dl=1",
+      "Link":"https://drive.google.com/file/d/1T6BNgn4GFKJD7iXDGNXvW1zI83KKD0bt/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ရွှေချမ်းသာ ငွေချမ်းသာ",
+      "Author":"မင်းမြတ်သူရ",
+      "Photo":"https://www.dropbox.com/scl/fi/j8z336cifz8v5d0716qxx/.jpg?rlkey=84b206kftaggetm08zp9ur089&dl=1",
+      "Link":"https://drive.google.com/file/d/123362lP4eq47ZbEetA44AMskeJ_0ubni/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စေတန်ရဲ့တံဆိပ်",
+      "Author":"မင်းခိုက်စိုးစန်",
+      "Photo":"https://www.dropbox.com/scl/fi/d42it7osjapi7tgoxiruq/.jpg?rlkey=vtpwmazae4qq3dwzfe4gbk88s&dl=1",
+      "Link":"https://drive.google.com/file/d/1Zt5RBtdeH4YRYRcUplOuLUIXbCMwIBUc/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အိပ်မက်ပန်းအလွမ်းနှင်းဆီ",
+      "Author":"ညိုနှင်းအိမ်",
+      "Photo":"https://www.dropbox.com/scl/fi/34ur7ek3rwomhrhax95nr/.jpg?rlkey=7cfm1car41ms8qq9gapvlklam&dl=1",
+      "Link":"https://drive.google.com/file/d/1o0oD0atQZsIna_65Za01wrVd25HscV4g/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကိုယ့်နောက်က လိုက်နေသည့်ငွေ",
+      "Author":"ခင်မောင်ညို(ဘောဂဗေဒ)",
+      "Photo":"https://www.dropbox.com/scl/fi/eme73jhzi2578f5dfzzxk/.jpg?rlkey=w8j34oxt6529kc8211912gjb1&dl=1",
+      "Link":"https://drive.google.com/file/d/1DubvxkcetnNCPpi748aN5cN0NEdGxhnX/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စီအီးအိုလက်စွဲ",
+      "Author":"ခင်မောင်ညို(ဘောဂဗေဒ)",
+      "Photo":"https://www.dropbox.com/scl/fi/evlta52llz2tn9dz77u17/.jpg?rlkey=6fugfx21hatcips61urrr2qo3&dl=1",
+      "Link":"https://drive.google.com/file/d/1EGfZnbJvq_rWGB62NoGk0adA5lHQeCb9/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဟယ်ရီပေါ်တာနှင့်မှော်ဝင်ရတနာ",
+      "Author":"ကောင်းမြတ်လွန်းသော်(ဆေးတက္ကသိုလ်)",
+      "Photo":"https://www.dropbox.com/scl/fi/i0h045ggymvx7y1rxzyno/.jpg?rlkey=3jpnkxpocak2p05col5vwvehd&dl=1",
+      "Link":"https://drive.google.com/file/d/1rA9iZ-yRPbxHE_oBIoCzDbRCuA3irMUT/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘာသာကြီးလေးခုအနှစ်သာရများ",
+      "Author":"ညိုသောင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/noe4bhb2pjgwdr3n4eu63/.jpg?rlkey=p9q6p6ajr9q7zoakit2gx1xmw&dl=1",
+      "Link":"https://drive.google.com/file/d/1zgQ0bEiDI9Bu9mNMy4hCQheWJI48cTzh/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ပင်လယ်ဝံပုလွေ",
+      "Author":"ညွန့်ကြူး",
+      "Photo":"https://www.dropbox.com/scl/fi/tlkaabnc9tp49pt3qns1s/.jpg?rlkey=3w06oypqtat5zpjxucln74hht&dl=1",
+      "Link":"https://drive.google.com/file/d/18SvttK76o7q6c__g8ox328npbC_QR0tR/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဧကရီဖွားစော",
+      "Author":"မြသန်းတင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/9sagibeqym5dyoxh4z7yj/.jpg?rlkey=l586qjghkbjys6kdi7xym83an&dl=1",
+      "Link":"https://drive.google.com/file/d/1yuTIpEonvDPySZ7nqb3cyQ3rLHoOFp-F/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘေဘီလုံမှာအချမ်းသာဆုံးပုဂ္ဂိုလ်",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/e1bnskz1t3rvmhd8xzxta/.jpg?rlkey=i0vri2uqf1bi7isjj7x0fmdny&dl=1",
+      "Link":"https://drive.google.com/file/d/1zc_PGVm9PwTEX--7stCxc3x46o8cd30B/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကလောင်နှင့်ငွေရ",
+      "Author":"ပီမိုးနင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/d3yohwgjngq8xm7on9g2a/.jpg?rlkey=to1but3uc6g0uadpjhz86bvic&dl=1",
+      "Link":"https://drive.google.com/file/d/1bbPI1Eu52Dyot5Otqcro5EbCQ5XOphia/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ခြင်တစ်ကောင်နဲ့အိပ်ကြည့်ပါ",
+      "Author":"ထက်ကျော်",
+      "Photo":"https://www.dropbox.com/scl/fi/h5oq8aedkddtfzr9nvi4v/.jpg?rlkey=wz60scesf5acddszhg96uhe4h&dl=1",
+      "Link":"https://drive.google.com/file/d/1u81V0rKz1Fehnr4AzYyRBRGjZBXW_cHU/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စွဲလမ်းခြင်းခရီးသည်",
+      "Author":"သတိုးတေဇ",
+      "Photo":"https://www.dropbox.com/scl/fi/n9qsvv031hrj1tjy05btl/.jpg?rlkey=e6z9zmeeovy1d04z05wjxz4mq&dl=1",
+      "Link":"https://drive.google.com/file/d/1e_lR9lhaXW8rwqqft_han1GboKf-YjQB/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မှ တစ်ဆင့်",
+      "Author":"မိုးမိုး (အင်းလျား)",
+      "Photo":"https://www.dropbox.com/scl/fi/5xikusc3gi9q41gsycdyi/.jpg?rlkey=0vvg573itekkcdgqdi43wc9f2&dl=1",
+      "Link":"https://drive.google.com/file/d/1aC7fStCoN76V2l2TzfFvg3AUpN2Lq8Z_/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ညီမလေးကအချစ်ကို ကိုးကွယ်သတဲ့လား",
+      "Author":"မိုးမိုး (အင်းလျား)",
+      "Photo":"https://www.dropbox.com/scl/fi/7hfkszginryf0lzdzkg3k/.jpg?rlkey=b33fo64ljmxrw71zc45a746ud&dl=1",
+      "Link":"https://drive.google.com/file/d/1BScs3SYTuH5PajMRGk3C5iY8Qm29pqY8/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကကြိုးရှုပ်တဲ့တစ္ဆေ",
+      "Author":"သတိုးတေဇ",
+      "Photo":"https://www.dropbox.com/scl/fi/mtr21m9p3kw7gl5jqbn1b/.jpg?rlkey=6oytcbb4rry9e0w7mfsr73kjh&dl=1",
+      "Link":"https://drive.google.com/file/d/1I_xE7RKUUJTUnJc9xP7cQ8acQaYIlV5b/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မြူမှောင်ဝေကင်း",
+      "Author":"မိုးမိုး (အင်းလျား)",
+      "Photo":"https://www.dropbox.com/scl/fi/9sitoevzrq8p4o25spl3s/.jpg?rlkey=xn0x7uyhz4ws4jclmuhspbyjh&dl=1",
+      "Link":"https://drive.google.com/file/d/14rbVdSsHiaGiigti6ACvbp4lJ0LJiSVP/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အမှောင်ကြောက်သူ",
+      "Author":"သတိုးတေဇ ၊ ဒေဝလက်ျာ",
+      "Photo":"https://www.dropbox.com/scl/fi/pgg01hefh88oyib4j375f/.jpg?rlkey=y0ok62fbds2rsuhaqhh66byhm&dl=1",
+      "Link":"https://drive.google.com/file/d/13D3aFNQCYgolt8OWaqwT8uhmuIHQAtll/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စိတ်ဓာတ်နှင့်နည်းနာ",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/37v4e7z9r6dbx3grj81xm/.jpg?rlkey=ms7vcnrqxse7vmtli1ouhn9fp&dl=1",
+      "Link":"https://drive.google.com/file/d/1myrcC8BB0w-a6lO5dRklWARSxQpCKX1N/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စိန်မြေဧကပေါင်းများစွာ",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/4kpjmegftq8gvf6mavu9r/.jpg?rlkey=t4g5sk4n5g7yew7we8mxkaw4q&dl=1",
+      "Link":"https://drive.google.com/file/d/1mlrVJyopmYmDAyBwgsncMGfH7i15TeNo/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘာသာကြီးလေးခုအနှစ်သာရများ",
+      "Author":"ညိုသောင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/noe4bhb2pjgwdr3n4eu63/.jpg?rlkey=p9q6p6ajr9q7zoakit2gx1xmw&dl=1",
+      "Link":"https://drive.google.com/file/d/1zgQ0bEiDI9Bu9mNMy4hCQheWJI48cTzh/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ပင်လယ်ဝံပုလွေ",
+      "Author":"ညွန့်ကြူး",
+      "Photo":"https://www.dropbox.com/scl/fi/tlkaabnc9tp49pt3qns1s/.jpg?rlkey=3w06oypqtat5zpjxucln74hht&dl=1",
+      "Link":"https://drive.google.com/file/d/18SvttK76o7q6c__g8ox328npbC_QR0tR/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဧကရီဖွားစော",
+      "Author":"မြသန်းတင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/9sagibeqym5dyoxh4z7yj/.jpg?rlkey=l586qjghkbjys6kdi7xym83an&dl=1",
+      "Link":"https://drive.google.com/file/d/1yuTIpEonvDPySZ7nqb3cyQ3rLHoOFp-F/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဘေဘီလုံမှာအချမ်းသာဆုံးပုဂ္ဂိုလ်",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/e1bnskz1t3rvmhd8xzxta/.jpg?rlkey=i0vri2uqf1bi7isjj7x0fmdny&dl=1",
+      "Link":"https://drive.google.com/file/d/1zc_PGVm9PwTEX--7stCxc3x46o8cd30B/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကလောင်နှင့်ငွေရ",
+      "Author":"ပီမိုးနင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/d3yohwgjngq8xm7on9g2a/.jpg?rlkey=to1but3uc6g0uadpjhz86bvic&dl=1",
+      "Link":"https://drive.google.com/file/d/1bbPI1Eu52Dyot5Otqcro5EbCQ5XOphia/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ခြင်တစ်ကောင်နဲ့အိပ်ကြည့်ပါ",
+      "Author":"ထက်ကျော်",
+      "Photo":"https://www.dropbox.com/scl/fi/h5oq8aedkddtfzr9nvi4v/.jpg?rlkey=wz60scesf5acddszhg96uhe4h&dl=1",
+      "Link":"https://drive.google.com/file/d/1u81V0rKz1Fehnr4AzYyRBRGjZBXW_cHU/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စွဲလမ်းခြင်းခရီးသည်",
+      "Author":"သတိုးတေဇ",
+      "Photo":"https://www.dropbox.com/scl/fi/n9qsvv031hrj1tjy05btl/.jpg?rlkey=e6z9zmeeovy1d04z05wjxz4mq&dl=1",
+      "Link":"https://drive.google.com/file/d/1e_lR9lhaXW8rwqqft_han1GboKf-YjQB/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မှ တစ်ဆင့်",
+      "Author":"မိုးမိုး (အင်းလျား)",
+      "Photo":"https://www.dropbox.com/scl/fi/5xikusc3gi9q41gsycdyi/.jpg?rlkey=0vvg573itekkcdgqdi43wc9f2&dl=1",
+      "Link":"https://drive.google.com/file/d/1aC7fStCoN76V2l2TzfFvg3AUpN2Lq8Z_/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ညီမလေးကအချစ်ကို ကိုးကွယ်သတဲ့လား",
+      "Author":"မိုးမိုး (အင်းလျား)",
+      "Photo":"https://www.dropbox.com/scl/fi/7hfkszginryf0lzdzkg3k/.jpg?rlkey=b33fo64ljmxrw71zc45a746ud&dl=1",
+      "Link":"https://drive.google.com/file/d/1BScs3SYTuH5PajMRGk3C5iY8Qm29pqY8/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ကကြိုးရှုပ်တဲ့တစ္ဆေ",
+      "Author":"သတိုးတေဇ",
+      "Photo":"https://www.dropbox.com/scl/fi/mtr21m9p3kw7gl5jqbn1b/.jpg?rlkey=6oytcbb4rry9e0w7mfsr73kjh&dl=1",
+      "Link":"https://drive.google.com/file/d/1I_xE7RKUUJTUnJc9xP7cQ8acQaYIlV5b/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မြူမှောင်ဝေကင်း",
+      "Author":"မိုးမိုး (အင်းလျား)",
+      "Photo":"https://www.dropbox.com/scl/fi/9sitoevzrq8p4o25spl3s/.jpg?rlkey=xn0x7uyhz4ws4jclmuhspbyjh&dl=1",
+      "Link":"https://drive.google.com/file/d/14rbVdSsHiaGiigti6ACvbp4lJ0LJiSVP/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အမှောင်ကြောက်သူ",
+      "Author":"သတိုးတေဇ ၊ ဒေဝလက်ျာ",
+      "Photo":"https://www.dropbox.com/scl/fi/pgg01hefh88oyib4j375f/.jpg?rlkey=y0ok62fbds2rsuhaqhh66byhm&dl=1",
+      "Link":"https://drive.google.com/file/d/13D3aFNQCYgolt8OWaqwT8uhmuIHQAtll/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စိတ်ဓာတ်နှင့်နည်းနာ",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/37v4e7z9r6dbx3grj81xm/.jpg?rlkey=ms7vcnrqxse7vmtli1ouhn9fp&dl=1",
+      "Link":"https://drive.google.com/file/d/1myrcC8BB0w-a6lO5dRklWARSxQpCKX1N/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စိန်မြေဧကပေါင်းများစွာ",
+      "Author":"ဖေမြင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/4kpjmegftq8gvf6mavu9r/.jpg?rlkey=t4g5sk4n5g7yew7we8mxkaw4q&dl=1",
+      "Link":"https://drive.google.com/file/d/1mlrVJyopmYmDAyBwgsncMGfH7i15TeNo/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မင်းလူ ဝတ္ထုတိုပေါင်းချုပ်",
+      "Author":"",
+      "Photo":"https://www.dropbox.com/scl/fi/c6bfozkqb6hxua6d6hpez/.jpg?rlkey=d013kb8k1a31q10izlnrgyeh3&dl=1",
+      "Link":"https://drive.google.com/file/d/11algmGcN3yO3ZcQLJBLilgu1QncmiGVg/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အတွေ့အကြုံနှင့်အတွေးအကြုံ",
+      "Author":"အောင်သင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/i5rb3puhq74ifyfu72ujg/.jpg?rlkey=pot6rtkhd7ik4xl36km7bkqi1&dl=1",
+      "Link":"https://drive.google.com/file/d/1gckqkB7f1W9lRJPh0RRFzz55YNi6djnO/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"သေကိန်းဆိုက်တဲ့ညနှင့် အခြားဝတ္ထုတိုများ",
+      "Author":"အောင်သင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/4qlhzo99sazrizpxu6051/.jpg?rlkey=28d33jjymxe1o3cigl9fcaxfn&dl=1",
+      "Link":"https://drive.google.com/file/d/1BiTGJFnqTy9wt2KO3EgE1tO9aIWZkwao/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"အမွေ",
+      "Author":"အောင်သင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/b2zumopixpcw3boh1yzkq/.jpg?rlkey=ikr7zye9e4e449iy1tnz58ddj&dl=1",
+      "Link":"https://drive.google.com/file/d/1w37mhKhwbFI_c_88rHBhY2M1qC9adGQe/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"သူတို့နှင့်ကျွန်တော်",
+      "Author":"အောင်သင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/se2a0b5hkknb5f5x4pzpy/.jpg?rlkey=pgom8b9fnotns9cdfv3oo8nq3&dl=1",
+      "Link":"https://drive.google.com/file/d/1QIlvVBDYGEzXsfVrslMIzTor8jmOh-tM/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"စဉ်းစားစရာလေးတွေ",
+      "Author":"အောင်သင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/9l8r3y1tzhbsg6rnt5j8i/.jpg?rlkey=iyxz3m8s1u0ye85261anwoolo&dl=1",
+      "Link":"https://drive.google.com/file/d/1ILKwN_JjDOYUEPbrZLwannymSjkShxCs/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"မျိုးဆက်သစ်အတွက် ပိဋကတ်မိတ်ဆက်",
+      "Author":"အောင်သင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/y3zk6yc0un6d8hob7ixsj/.jpg?rlkey=725yb19xm1mxjdoyj3tun2tlm&dl=1",
+      "Link":"https://drive.google.com/file/d/1QlKjq0O7rIW9d8T9qakTQJdUK4VvCxws/view?usp=drivesdk",
+      "Des":""
+   }
+]
