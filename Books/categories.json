@@ -7,31 +7,83 @@
    
      "Title": "ဂျူးစာအုပ်များ",
     "Photo": "https://www.dropbox.com/scl/fi/192weozy8icsj9nbmjida/Untitled-design.png?rlkey=dm9e9it5wn4h2ekswsjxa9g8d&st=866s1g4h&dl=1",
-     "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Books/english.json"
+     "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Joe.json"
   },
   {
     "Name":"တက္ကသိုလ်ဘုန်းနိုင်စာအုပ်များ",
     "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-    "Link":" https://raw.githubusercontent.com/laymintu/Library/main/questions.json ",
-    "Title":" ရွှေဥဒေါင်းစာအုပ်များ",
+    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Bhone%20Naing.json",
+    
+	"Title":" ရွှေဥဒေါင်းစာအုပ်များ",
     "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-    "Url":"https://raw.githubusercontent.com/laymintu/Library/main/questions.json  "
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Shwe%20Oo%20Daung.json  "
   },
    {
     "Name":"ဂျာနယ်ကျော်မမလေးစာအုပ်များ",
     "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-    "Link":" https://raw.githubusercontent.com/laymintu/Library/main/questions.json ",
-    "Title":" သိုးဆောင်းစာအုပ်များ",
+    "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mama%20Lay.json ",
+    
+	
+	"Title":" သိုးဆောင်းစာအုပ်များ",
     "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-    "Url":"https://raw.githubusercontent.com/laymintu/Library/main/questions.json  "
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Tho%20Saung.json "
   },
   {
     "Name":"မင်းသိင်္ခစာအုပ်များ",
     "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-    "Link":" https://raw.githubusercontent.com/laymintu/Library/main/questions.json ",
-    "Title":" ဦးနုစာအုပ်များ",
+    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Min%20Thinka.json ",
+   
+
+   "Title":" ဦးနုစာအုပ်များ",
     "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-    "Url":"https://raw.githubusercontent.com/laymintu/Library/main/questions.json  "
-  }
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/U%20Nu.json "
+  },
+  {
+   "Name":"ကျော်ဝင်းစာအုပ်များ",
+    "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Kyaw%20Win.json ",
+  
+   "Title":"ညီသစ်စာအုပ်များ ",
+    "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Nyi%20Thit.json "
+	},
+	
+	{
+   "Name":"တက်တိုးစာအုပ်များ ",
+    "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Tat%20Toe.json ",
+  
+   "Title":" ",
+    "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/ "
+	},
+	{
+   "Name":"ဖေမြင့်စာအုပ်များ ",
+    "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Pae%20Myint.json ",
+  
+   "Title":" ",
+    "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/ "
+	},
+	{
+   "Name":"လယ်တွင်းသားစောချစ်စာအုပ်များ ",
+    "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Saw%20Chit.json ",
+  
+   "Title":"မြသန်းတင့်စာအုပ်များ ",
+    "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mya%20Than%20Tint.json "
+	},
+	{
+   "Name":"အကြည်တော်စာအုပ်များ ",
+    "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Akyi%20taw.json",
+  
+   "Title":"   ",
+    "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mya%20Than%20Tint.json "
+	}
+  
   
 ]
