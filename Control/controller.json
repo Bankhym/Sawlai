@@ -14,7 +14,7 @@
 "where":"1",
 "announce":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Others/announce.json",
 "disclaim":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Others/desclaimers.json",
-"Note":" စာပြောင်းရန် link ပြောင်းပြီး ၁ အတွက် announce< None အတွက် FaQ ကို သွားမယ်",
+"Note":" 1 ဆိုရင် announce ကိုသွားမယ်၊ 2 ဆိုရန် disclaim ကိုသွားမယ်၊ 3 ဆိုရန် FAQ ကိုသွားမယ်၊ 0 ဆိုရန် No Intent ပါ",
 
     
 
@@ -24,7 +24,8 @@
     "Trending-hide":"No",
     "Collections-hide":"no",
     "mayLike-hide":"No",
-    "englishBook-hide":"No"
+    "englishBook-hide":"No",
+    "bottom-hide":"No"
 
   }
 ]
