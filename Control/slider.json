@@ -1,7 +1,14 @@
 [
    {
       "imageview":"https://www.dropbox.com/scl/fi/ddbcbgx6vrzlq0rl1uojl/.png?rlkey=zfg7nl7h54k7xqmkrmivupvk8&st=2ftu6po3&dl=1",
-      "intent":"Yes",
+     
+      "note":"  intent link ဆိုရင် True | No intent for False |
+                Collection လုပ်ချင်ရန် Yes or No ပြောင်းပေး/
+                စာအုပ်တစ်ခုတည်းဖတ်စေချင်လည်း ထိုအတိုင်းပဲ့ Yes or No|
+                Key တစ်ခုတည်းကိုပဲ့ယူပြီး Link ထည့်ပါရန်  ",
+      
+      
+      "intent":"False",
       "url":"https://www.google.com",
       
       "Collection":"No",
