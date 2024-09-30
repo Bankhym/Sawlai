@@ -19,13 +19,13 @@
     
 
     "maintenance":"No",
-    "Categories-hide":"Yes",
+    "Categories-hide":"No",
     "newBook-hide":"No",
     "Trending-hide":"No",
     "Collections-hide":"no",
     "mayLike-hide":"No",
     "englishBook-hide":"No",
-    "bottom-hide":"Yes"
+    "bottom-hide":"No"
 
   }
 ]
