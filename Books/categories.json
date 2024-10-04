@@ -9,7 +9,15 @@
     "Photo":"https://www.dropbox.com/scl/fi/kc0semoxywl313u6snhea/fdhfgjcvb.png?rlkey=j3kmcoury8kp7w6debjg34p62&st=e38ij16m&dl=1",
     "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Shwe%20Oo%20Daung.json  "
   },
-
+{
+   "Name":"အကြည်တော်စာအုပ်များ ",
+    "Image":"https://www.dropbox.com/scl/fi/bxf0gl9ydurc5lg6e312c/fdhf-jcgvb.png?rlkey=jy0um936it8kfwq0yzko5jclb&st=6oor15qk&dl=1",
+    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Akyi%20taw.json",
+  
+   "Title":"ဝိဇ္ဇာစာအုပ်များ",
+    "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
+    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Wizara.json"
+	},
 	
    {
     "Name":"ဂျာနယ်ကျော်မမလေးစာအုပ်များ",
@@ -64,17 +72,6 @@
     "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mya%20Than%20Tint.json "
 	},
 
-	
-	{
-   "Name":"အကြည်တော်စာအုပ်များ ",
-    "Image":"https://www.dropbox.com/scl/fi/bxf0gl9ydurc5lg6e312c/fdhf-jcgvb.png?rlkey=jy0um936it8kfwq0yzko5jclb&st=6oor15qk&dl=1",
-    "Link":" https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Akyi%20taw.json",
-  
-   "Title":"ဝိဇ္ဇာစာအုပ်များ",
-    "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-    "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Wizara.json"
-	},
-	
 	{
    "Name":"အောင်သင်းစာအုပ်များ",
     "Image":"https://www.dropbox.com/scl/fi/1sxou2cek75yic8ryyck3/myanmar-at.png?rlkey=hex3pps5g6fk199u8nve1t41j&st=rnxvsrc2&dl=1",
