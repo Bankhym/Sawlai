@@ -1,16 +1,5 @@
 [
-  
-   {
-    "Name": "ပုညခင်စာအုပ်များ",
-    "Image": "https://www.dropbox.com/scl/fi/583crt3vtdqv1m6q3feth/hdsihfiuhf.png?rlkey=7nwqrogj56hv8kwncpusey8wp&st=h0c9ljz5&dl=1",
-     "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Punya%20Khine.json",
-   
-     "Title": "ဂျူးစာအုပ်များ",
-    "Photo": "https://www.dropbox.com/scl/fi/8qc4qzlz9a0kzaxlb5g9n/Untitled-design.png?rlkey=dlv6g7fimlt3811evvoriqrhp&st=f6shy2hv&dl=1",
-     "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Joe.json"
-  },
-
-	
+  	
   {
     "Name":"တက္ကသိုလ်ဘုန်းနိုင်စာအုပ်များ",
     "Image":"https://www.dropbox.com/scl/fi/ps0syuqpv85o6szpgri93/gtjfjfgbfd.png?rlkey=r91701655dzgac6rkkfqhfd1w&st=600synbl&dl=1",
@@ -94,6 +83,15 @@
    "Title":"အောင်ချိမ့်စာအုပ်များ   ",
     "Photo":"https://www.dropbox.com/scl/fi/93orch2wh20xr2jhrgpr3/myanmarat.png?rlkey=jkn2asaipj29g7w1ie68dsrht&st=279sc4md&dl=1",
     "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Aung%20Chain.json"
-	}
-  
+	},
+	{
+    "Name": "ပုညခင်စာအုပ်များ",
+    "Image": "https://www.dropbox.com/scl/fi/583crt3vtdqv1m6q3feth/hdsihfiuhf.png?rlkey=7nwqrogj56hv8kwncpusey8wp&st=h0c9ljz5&dl=1",
+     "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Punya%20Khine.json",
+   
+     "Title": "ဂျူးစာအုပ်များ",
+    "Photo": "https://www.dropbox.com/scl/fi/8qc4qzlz9a0kzaxlb5g9n/Untitled-design.png?rlkey=dlv6g7fimlt3811evvoriqrhp&st=f6shy2hv&dl=1",
+     "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Joe.json"
+  }
+ 
 ]
