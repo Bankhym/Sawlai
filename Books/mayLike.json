@@ -1,74 +1,5 @@
 [
-   {
-      "Title":"အီဂျစ်ဘုရင်မာယာရှင်",
-      "Author":"ဦးလေးတင့် နှင့် ဒဂုန်ရွှေမျှား",
-      "Photo":"https://www.dropbox.com/scl/fi/4wn8r0e8yd9bdyqg8qfbl/.jpg?rlkey=p0yjqw9d840lo433bkpwgvy5s&dl=1",
-      "Link":"https://drive.google.com/file/d/1IKSCtglDt5LwBqj6Ad_iFpFV__M-w8BP/view?usp=drivesdk",
-      "Des":""
-   },
-   {
-      "Title":"တဂိုးဝတ္ထုတိုများ",
-      "Author":"မြသန်းတင့်",
-      "Photo":"https://www.dropbox.com/scl/fi/o1lwd8fs2dluu2u2ozzut/.jpg?rlkey=3g7ureij2ky52gsyrrsok0wqy&dl=1",
-      "Link":"https://drive.google.com/file/d/1NeRpN4rRIPVweg07mbUus42tRVctmsAH/view?usp=drivesdk",
-      "Des":""
-   },
-   {
-      "Title":"ပုလဲဒေဝီ",
-      "Author":"ဒဂုန်ရွှေမျှား",
-      "Photo":"https://www.dropbox.com/scl/fi/qlsfc5zbc3b89ops6mae5/.jpg?rlkey=lns3n1xjkq0qomco6lsk7rhw6&dl=1",
-      "Link":"https://drive.google.com/file/d/1mgqAnv9NKa56iZ7n9IQ-AznQy7yn6Edt/view?usp=drivesdk",
-      "Des":""
-   },
-   {
-      "Title":"ဟိုချီမင်း",
-      "Author":"လင်းယုန်မောင်မောင်",
-      "Photo":"https://www.dropbox.com/scl/fi/8gm1szn7w53t0uhskucow/.jpg?rlkey=m1cm91vja389qvrkns190ndyu&dl=1",
-      "Link":"https://drive.google.com/file/d/1iUdepu2ToEmPj2R7hyLYy2xXm9dnPFix",
-      "Des":""
-   },
-   {
-      "Title":"နေဝင်ဘုရင်များ",
-      "Author":"ကျော်အောင်",
-      "Photo":"https://www.dropbox.com/scl/fi/3wf5exs4ldle9ji74ty8y/.jpg?rlkey=d292fg7ovg4xtxvoa4w7aj6ao&dl=1",
-      "Link":"https://drive.google.com/file/d/1KEfKeVgouSeYwuBrK3jjGF6EH1CHADsw/view?usp=drivesdk",
-      "Des":""
-   },
-   {
-      "Title":"ဂျပန်ဘာ့ကြောင့် အောင်မြင်ခဲ့လဲ",
-      "Author":"မောင်ထွန်းသူ(ဘာသာပြန်)",
-      "Photo":"https://www.dropbox.com/scl/fi/mmwem7snhp3818do821eu/.jpg?rlkey=1ze0y9hcp8s7d2j0fnk6iptsi&dl=1",
-      "Link":"https://drive.google.com/file/d/1b_95J1z36euUtB970ajohTumxzAddEDn",
-      "Des":""
-   },
-   {
-      "Title":"ပီကင်း",
-      "Author":"မောင်ထွန်းသူ",
-      "Photo":"https://www.dropbox.com/scl/fi/qdb7bkox4imm15afgude2/.jpg?rlkey=5x1weu84bprgqdep3v379lwcq&dl=1",
-      "Link":"https://drive.google.com/file/d/1tT8I3Cb6QDpvlK3Jja6WMmhDieDG3eP0/view?usp=drivesdk",
-      "Des":""
-   },
-   {
-      "Title":"နှစ်လောက",
-      "Author":"မောင်ထွန်းသူ",
-      "Photo":"https://www.dropbox.com/scl/fi/zhdwy6km77ohgl2rqg8ey/.jpg?rlkey=z6d1uanhdzudxwicou7mhu9wa&dl=1",
-      "Link":"https://drive.google.com/file/d/1nFyV7u9c08s5EWt0rO335BHwzQio-PYH/view?usp=drivesdk",
-      "Des":""
-   },
-   {
-      "Title":"The Alchemist",
-      "Author":"Holy Ghost",
-      "Photo":"https://www.dropbox.com/scl/fi/sqixxy1c10uxiej0rj5op/The-Alchemist-Holy-Ghost.jpg?rlkey=1daszd8gno28en2084oudyjjl&dl=1",
-      "Link":"https://drive.google.com/file/d/1vkWGiUujz9-hs3B5iGQj5MS7N3tPVB9M/view?usp=drivesdk",
-      "Des":""
-   },
-   {
-      "Title":"ရှားလော့ဟုမ်း အထူးစွမ်းဆောင်ခဲ့ရသည့် မှုခင်းများ",
-      "Author":"ဆက်ထွန်းလင်း",
-      "Photo":"https://www.dropbox.com/scl/fi/0fhfc0qj9a50o54lvdov9/.jpg?rlkey=7sapbi92qexoqlek93xax7whx&dl=1",
-      "Link":"https://drive.google.com/file/d/1xy447y85hq415I_wQl_N26UNLwwktMv1/view?usp=drivesdk",
-      "Des":""
-   },
+  
    {
       "Title":"အိပ်မက်ကမ္ဘာထဲ ပို့ဆောင်သူ",
       "Author":"မြတ်သက်",
@@ -1145,6 +1076,76 @@
       "Author":"အောင်သင်း",
       "Photo":"https://www.dropbox.com/scl/fi/y3zk6yc0un6d8hob7ixsj/.jpg?rlkey=725yb19xm1mxjdoyj3tun2tlm&dl=1",
       "Link":"https://drive.google.com/file/d/1QlKjq0O7rIW9d8T9qakTQJdUK4VvCxws/view?usp=drivesdk",
+      "Des":""
+   },
+    {
+      "Title":"အီဂျစ်ဘုရင်မာယာရှင်",
+      "Author":"ဦးလေးတင့် နှင့် ဒဂုန်ရွှေမျှား",
+      "Photo":"https://www.dropbox.com/scl/fi/4wn8r0e8yd9bdyqg8qfbl/.jpg?rlkey=p0yjqw9d840lo433bkpwgvy5s&dl=1",
+      "Link":"https://drive.google.com/file/d/1IKSCtglDt5LwBqj6Ad_iFpFV__M-w8BP/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"တဂိုးဝတ္ထုတိုများ",
+      "Author":"မြသန်းတင့်",
+      "Photo":"https://www.dropbox.com/scl/fi/o1lwd8fs2dluu2u2ozzut/.jpg?rlkey=3g7ureij2ky52gsyrrsok0wqy&dl=1",
+      "Link":"https://drive.google.com/file/d/1NeRpN4rRIPVweg07mbUus42tRVctmsAH/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ပုလဲဒေဝီ",
+      "Author":"ဒဂုန်ရွှေမျှား",
+      "Photo":"https://www.dropbox.com/scl/fi/qlsfc5zbc3b89ops6mae5/.jpg?rlkey=lns3n1xjkq0qomco6lsk7rhw6&dl=1",
+      "Link":"https://drive.google.com/file/d/1mgqAnv9NKa56iZ7n9IQ-AznQy7yn6Edt/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဟိုချီမင်း",
+      "Author":"လင်းယုန်မောင်မောင်",
+      "Photo":"https://www.dropbox.com/scl/fi/8gm1szn7w53t0uhskucow/.jpg?rlkey=m1cm91vja389qvrkns190ndyu&dl=1",
+      "Link":"https://drive.google.com/file/d/1iUdepu2ToEmPj2R7hyLYy2xXm9dnPFix",
+      "Des":""
+   },
+   {
+      "Title":"နေဝင်ဘုရင်များ",
+      "Author":"ကျော်အောင်",
+      "Photo":"https://www.dropbox.com/scl/fi/3wf5exs4ldle9ji74ty8y/.jpg?rlkey=d292fg7ovg4xtxvoa4w7aj6ao&dl=1",
+      "Link":"https://drive.google.com/file/d/1KEfKeVgouSeYwuBrK3jjGF6EH1CHADsw/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ဂျပန်ဘာ့ကြောင့် အောင်မြင်ခဲ့လဲ",
+      "Author":"မောင်ထွန်းသူ(ဘာသာပြန်)",
+      "Photo":"https://www.dropbox.com/scl/fi/mmwem7snhp3818do821eu/.jpg?rlkey=1ze0y9hcp8s7d2j0fnk6iptsi&dl=1",
+      "Link":"https://drive.google.com/file/d/1b_95J1z36euUtB970ajohTumxzAddEDn",
+      "Des":""
+   },
+   {
+      "Title":"ပီကင်း",
+      "Author":"မောင်ထွန်းသူ",
+      "Photo":"https://www.dropbox.com/scl/fi/qdb7bkox4imm15afgude2/.jpg?rlkey=5x1weu84bprgqdep3v379lwcq&dl=1",
+      "Link":"https://drive.google.com/file/d/1tT8I3Cb6QDpvlK3Jja6WMmhDieDG3eP0/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"နှစ်လောက",
+      "Author":"မောင်ထွန်းသူ",
+      "Photo":"https://www.dropbox.com/scl/fi/zhdwy6km77ohgl2rqg8ey/.jpg?rlkey=z6d1uanhdzudxwicou7mhu9wa&dl=1",
+      "Link":"https://drive.google.com/file/d/1nFyV7u9c08s5EWt0rO335BHwzQio-PYH/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"The Alchemist",
+      "Author":"Holy Ghost",
+      "Photo":"https://www.dropbox.com/scl/fi/sqixxy1c10uxiej0rj5op/The-Alchemist-Holy-Ghost.jpg?rlkey=1daszd8gno28en2084oudyjjl&dl=1",
+      "Link":"https://drive.google.com/file/d/1vkWGiUujz9-hs3B5iGQj5MS7N3tPVB9M/view?usp=drivesdk",
+      "Des":""
+   },
+   {
+      "Title":"ရှားလော့ဟုမ်း အထူးစွမ်းဆောင်ခဲ့ရသည့် မှုခင်းများ",
+      "Author":"ဆက်ထွန်းလင်း",
+      "Photo":"https://www.dropbox.com/scl/fi/0fhfc0qj9a50o54lvdov9/.jpg?rlkey=7sapbi92qexoqlek93xax7whx&dl=1",
+      "Link":"https://drive.google.com/file/d/1xy447y85hq415I_wQl_N26UNLwwktMv1/view?usp=drivesdk",
       "Des":""
    }
 ]
