@@ -18,13 +18,13 @@
     "Snackbar":"Available soon!",
     "Profile":"Open",
 
-    "maintenance":"Yes",
+    "maintenance":"No",
     "Categories-hide":"No",
     "newBook-hide":"No",
     "Trending-hide":"No",
     "Collections-hide":"no",
     "mayLike-hide":"No",
     "englishBook-hide":"No",
-    "bottom-hide":"No"
+    "bottom-hide":"Yes"
   }
 ]
