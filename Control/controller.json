@@ -1,6 +1,5 @@
 [
   {  
-
      "mainName":"Digital Library",
     "Categories":" Categories",
     "newBook":" Newly added Books ",
@@ -27,8 +26,5 @@
     "mayLike-hide":"No",
     "englishBook-hide":"No",
     "bottom-hide":"Yes"
-
-    
-
   }
 ]
