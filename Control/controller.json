@@ -16,7 +16,7 @@
 "disclaim":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Others/desclaimers.json",
 "Note":" 1 ဆိုရင် announce ကိုသွားမယ်၊ 2 ဆိုရန် disclaim ကိုသွားမယ်၊ 3 ဆိုရန် FAQ ကိုသွားမယ်၊ 0 ဆိုရန် No Intent ပါ",
 
-    
+    "Snackbar":"Available soon!"
 
     "maintenance":"No",
     "Categories-hide":"No",
@@ -26,6 +26,8 @@
     "mayLike-hide":"No",
     "englishBook-hide":"No",
     "bottom-hide":"Yes"
+
+    
 
   }
 ]
