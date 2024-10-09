@@ -1,15 +1,5 @@
 [
-   {
-      "Name":"တက္ကသိုလ်ဘုန်းနိုင်စာအုပ်များ",
-      "Image":"https://www.dropbox.com/scl/fi/ps0syuqpv85o6szpgri93/gtjfjfgbfd.png?rlkey=r91701655dzgac6rkkfqhfd1w&st=600synbl&dl=1",
-      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Bhone%20Naing.json",
-      "Incoming":"No",
-	   
-      "Title":"ရွှေဥဒေါင်းစာအုပ်များ",
-      "Photo":"https://www.dropbox.com/scl/fi/kc0semoxywl313u6snhea/fdhfgjcvb.png?rlkey=j3kmcoury8kp7w6debjg34p62&st=e38ij16m&dl=1",
-      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Shwe%20Oo%20Daung.json",
-      "Pending":"No"
-   },
+  
    {
       "Name":"အကြည်တော်စာအုပ်များ",
       "Image":"https://www.dropbox.com/scl/fi/bxf0gl9ydurc5lg6e312c/fdhf-jcgvb.png?rlkey=jy0um936it8kfwq0yzko5jclb&st=6oor15qk&dl=1",
@@ -54,17 +44,7 @@
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Nyi%20Thit.json",
       "Pending":"No"
    },
-   {
-      "Name":"တက်တိုးစာအုပ်များ",
-      "Image":"https://www.dropbox.com/scl/fi/i9bs40s9aa3gbnxl9h9yo/fdhf-h-jcvb.png?rlkey=cci0w834cvr4q0tjzwux7iym2&st=0udpeqmg&dl=1",
-      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Tat%20Toe.json",
-      "Incoming":"No",
-	   
-      "Title":"ဖေမြင့်စာအုပ်များ",
-      "Photo":"https://www.dropbox.com/scl/fi/jx4924oc662vdndhqntfj/fdhf-hhjcvb.png?rlkey=thjekd9rlnwprkrtvb92woqsh&st=31n3uozu&dl=1",
-      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Pae%20Myint.json",
-      "Pending":"No"
-   },
+  
    {
       "Name":"လယ်တွင်းသားစောချစ်စာအုပ်များ",
       "Image":"https://www.dropbox.com/scl/fi/txwaaxn1tov3nn9m7ic67/fdhf-jcvhb.png?rlkey=jaujm60cg01rdtpxagdgex42u&st=brwqsj9m&dl=1",
@@ -96,6 +76,28 @@
       "Title":"ဂျူးစာအုပ်များ",
       "Photo":"https://www.dropbox.com/scl/fi/8qc4qzlz9a0kzaxlb5g9n/Untitled-design.png?rlkey=dlv6g7fimlt3811evvoriqrhp&st=f6shy2hv&dl=1",
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Joe.json",
+      "Pending":"No"
+   },
+	 {
+      "Name":"တက္ကသိုလ်ဘုန်းနိုင်စာအုပ်များ",
+      "Image":"https://www.dropbox.com/scl/fi/ps0syuqpv85o6szpgri93/gtjfjfgbfd.png?rlkey=r91701655dzgac6rkkfqhfd1w&st=600synbl&dl=1",
+      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Bhone%20Naing.json",
+      "Incoming":"No",
+	   
+      "Title":"ရွှေဥဒေါင်းစာအုပ်များ",
+      "Photo":"https://www.dropbox.com/scl/fi/kc0semoxywl313u6snhea/fdhfgjcvb.png?rlkey=j3kmcoury8kp7w6debjg34p62&st=e38ij16m&dl=1",
+      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Shwe%20Oo%20Daung.json",
+      "Pending":"No"
+   },
+	 {
+      "Name":"တက်တိုးစာအုပ်များ",
+      "Image":"https://www.dropbox.com/scl/fi/i9bs40s9aa3gbnxl9h9yo/fdhf-h-jcvb.png?rlkey=cci0w834cvr4q0tjzwux7iym2&st=0udpeqmg&dl=1",
+      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Tat%20Toe.json",
+      "Incoming":"No",
+	   
+      "Title":"ဖေမြင့်စာအုပ်များ",
+      "Photo":"https://www.dropbox.com/scl/fi/jx4924oc662vdndhqntfj/fdhf-hhjcvb.png?rlkey=thjekd9rlnwprkrtvb92woqsh&st=31n3uozu&dl=1",
+      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Pae%20Myint.json",
       "Pending":"No"
    }
 ]
