@@ -1,54 +1,7 @@
 [
-   {
-      "imageview":"https://www.dropbox.com/scl/fi/8tde7ccpo90i9t5cat62p/.png?rlkey=g28ffnc7ic2czfcknmop3e6gd&st=1h304j2n&dl=1",
-     
-      "note":"  intent link ဆိုရင် True | No intent for False |
-                Collection လုပ်ချင်ရန် Yes or No ပြောင်းပေး/
-                စာအုပ်တစ်ခုတည်းဖတ်စေချင်လည်း ထိုအတိုင်းပဲ့ Yes or No|
-                Key တစ်ခုတည်းကိုပဲ့ယူပြီး Link ထည့်ပါရန်  ",
-      
-      
-      "intent":"False",
-      "url":"https://www.google.com",
-      
-      "Collection":"No",
-      "Banner":" ",
-      "Info":"   ",
-      "COC":"  ",
-     
-      "Detail":"No",
-      "Title":"   ",
-      "Photo":"  ",
-      "Author":"",
-      "Des":"    ",
-      "Link":"  "
-   },
+   
    {
       "imageview":"https://www.dropbox.com/scl/fi/u7drt9hxhaqylqak7sj0t/.png?rlkey=hga15p6fdqzggmhhwkhilfep0&st=8dlso23n&dl=1",
-     
-      "note":"  intent link ဆိုရင် True | No intent for False |
-                Collection လုပ်ချင်ရန် Yes or No ပြောင်းပေး/
-                စာအုပ်တစ်ခုတည်းဖတ်စေချင်လည်း ထိုအတိုင်းပဲ့ Yes or No|
-                Key တစ်ခုတည်းကိုပဲ့ယူပြီး Link ထည့်ပါရန်  ",
-      
-      
-      "intent":"False",
-      "url":"https://www.google.com",
-      
-      "Collection":"No",
-      "Banner":" ",
-      "Info":"   ",
-      "COC":"  ",
-     
-      "Detail":"No",
-      "Title":"   ",
-      "Photo":"  ",
-      "Author":"",
-      "Des":"    ",
-      "Link":"  "
-   },
-   {
-      "imageview":"https://www.dropbox.com/scl/fi/zgidlt327f33mxmpn1bym/.png?rlkey=i69qm91dvjrykzqjbi7mflkna&st=wikoztlz&dl=1",
      
       "note":"  intent link ဆိုရင် True | No intent for False |
                 Collection လုပ်ချင်ရန် Yes or No ပြောင်းပေး/
@@ -71,4 +24,5 @@
       "Des":"    ",
       "Link":"  "
    }
+   
 ]
