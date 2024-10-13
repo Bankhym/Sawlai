@@ -10,7 +10,7 @@
    "image":"",
 
     
-"where":"1",
+"where":"0",
 "announce":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Others/announce.json",
 "disclaim":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Others/desclaimers.json",
 "Note":" 1 ဆိုရင် announce ကိုသွားမယ်၊ 2 ဆိုရန် disclaim ကိုသွားမယ်၊ 3 ဆိုရန် FAQ ကိုသွားမယ်၊ 0 ဆိုရန် No Intent ပါ",
