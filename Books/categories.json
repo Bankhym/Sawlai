@@ -84,17 +84,7 @@
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Thu%20Maung.json",
       "Pending":"Yes"
    },
-   {
-      "Name":"လယ်တွင်းသားစောချစ်စာအုပ်များ",
-      "Image":"https://www.dropbox.com/scl/fi/txwaaxn1tov3nn9m7ic67/fdhf-jcvhb.png?rlkey=jaujm60cg01rdtpxagdgex42u&st=brwqsj9m&dl=1",
-      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Saw%20Chit.json",
-      "Incoming":"No",
-	   
-      "Title":"မြသန်းတင့်စာအုပ်များ",
-      "Photo":"https://www.dropbox.com/scl/fi/eyih463210zzuzsp64qij/fdhf-jfcvb.png?rlkey=5mhfukptdqmfcjq54hq4rwmxb&st=7aqefbfj&dl=1",
-      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mya%20Than%20Tint.json",
-      "Pending":"No"
-   },
+   
    {
       "Name":"အောင်သင်းစာအုပ်များ",
       "Image":"https://www.dropbox.com/scl/fi/1sxou2cek75yic8ryyck3/myanmar-at.png?rlkey=hex3pps5g6fk199u8nve1t41j&st=rnxvsrc2&dl=1",
@@ -159,6 +149,17 @@
       "Title":"လင်းသိုက်ညွန့်စာအုပ်များ ",
       "Photo":"https://www.dropbox.com/scl/fi/whkxbd7m61kbsqu6domms/myanr-at.png?rlkey=vf048ibkze1pehfgne2uyuvxc&st=8aod1lkn&dl=1",
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Lin%20Thaik%20Nyunt.json",
+      "Pending":"No"
+   },
+{
+      "Name":"လယ်တွင်းသားစောချစ်စာအုပ်များ",
+      "Image":"https://www.dropbox.com/scl/fi/txwaaxn1tov3nn9m7ic67/fdhf-jcvhb.png?rlkey=jaujm60cg01rdtpxagdgex42u&st=brwqsj9m&dl=1",
+      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Saw%20Chit.json",
+      "Incoming":"No",
+	   
+      "Title":"မြသန်းတင့်စာအုပ်များ",
+      "Photo":"https://www.dropbox.com/scl/fi/eyih463210zzuzsp64qij/fdhf-jfcvb.png?rlkey=5mhfukptdqmfcjq54hq4rwmxb&st=7aqefbfj&dl=1",
+      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mya%20Than%20Tint.json",
       "Pending":"No"
    }
 ]
