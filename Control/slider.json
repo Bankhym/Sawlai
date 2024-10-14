@@ -1,7 +1,8 @@
 [
    
-   {
-      "imageview":"https://www.dropbox.com/scl/fi/u7drt9hxhaqylqak7sj0t/.png?rlkey=hga15p6fdqzggmhhwkhilfep0&st=8dlso23n&dl=1",
+   
+    {
+      "imageview":"https://www.dropbox.com/scl/fi/97v04aez5opaq8ue91cw7/.png?rlkey=c2famvp0g4y90ylcznhjsuz27&st=yzbzcdnf&dl=1",
      
       "note":"  intent link ဆိုရင် True | No intent for False |
                 Collection လုပ်ချင်ရန် Yes or No ပြောင်းပေး/
@@ -9,7 +10,7 @@
                 Key တစ်ခုတည်းကိုပဲ့ယူပြီး Link ထည့်ပါရန်  ",
       
       
-      "intent":"True",
+      "intent":"False",
       "url":"https://t.me/shz421",
       
       "Collection":"No",
@@ -24,8 +25,8 @@
       "Des":"    ",
       "Link":"  "
    },
-    {
-      "imageview":"https://www.dropbox.com/scl/fi/97v04aez5opaq8ue91cw7/.png?rlkey=c2famvp0g4y90ylcznhjsuz27&st=yzbzcdnf&dl=1",
+{
+      "imageview":"https://www.dropbox.com/scl/fi/u7drt9hxhaqylqak7sj0t/.png?rlkey=hga15p6fdqzggmhhwkhilfep0&st=8dlso23n&dl=1",
      
       "note":"  intent link ဆိုရင် True | No intent for False |
                 Collection လုပ်ချင်ရန် Yes or No ပြောင်းပေး/
@@ -33,7 +34,7 @@
                 Key တစ်ခုတည်းကိုပဲ့ယူပြီး Link ထည့်ပါရန်  ",
       
       
-      "intent":"False",
+      "intent":"True",
       "url":"https://t.me/shz421",
       
       "Collection":"No",
