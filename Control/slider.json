@@ -3,7 +3,7 @@
    
     
 {
-      "imageview":"https://www.dropbox.com/scl/fi/plnb88d9x6rvmg3m7ar2c/_20241014_181813_0000.png?rlkey=22lxgsnamwvfkqcrmyy7l96qf&st=2jwbghjw&dl=1",
+      "imageview":"https://www.dropbox.com/scl/fi/z0rrr8eiim1gjuakz68g7/Slider-image_20241018_114824_0000.png?rlkey=3ve8a6w4kwuvhulpm8if5x413&st=61czfwx2&dl=1",
      
       "note":"  intent link ဆိုရင် True | No intent for False |
                 Collection လုပ်ချင်ရန် Yes or No ပြောင်းပေး/
@@ -11,7 +11,31 @@
                 Key တစ်ခုတည်းကိုပဲ့ယူပြီး Link ထည့်ပါရန်  ",
       
       
-      "intent":"True",
+      "intent":"False",
+      "url":"https://t.me/shz421/12",
+      
+      "Collection":"No",
+      "Banner":" ",
+      "Info":"   ",
+      "COC":"  ",
+     
+      "Detail":"No",
+      "Title":"   ",
+      "Photo":"  ",
+      "Author":"",
+      "Des":"    ",
+      "Link":"  "
+   },
+{
+      "imageview":"https://www.dropbox.com/scl/fi/vdqu1etewudw8s69oukrj/Slider-image_20241018_114741_0000.png?rlkey=w0g0s9xkdyyoz9kumoov0i2dy&st=l5zfd0hw&dl=1",
+     
+      "note":"  intent link ဆိုရင် True | No intent for False |
+                Collection လုပ်ချင်ရန် Yes or No ပြောင်းပေး/
+                စာအုပ်တစ်ခုတည်းဖတ်စေချင်လည်း ထိုအတိုင်းပဲ့ Yes or No|
+                Key တစ်ခုတည်းကိုပဲ့ယူပြီး Link ထည့်ပါရန်  ",
+      
+      
+      "intent":"False",
       "url":"https://t.me/shz421/12",
       
       "Collection":"No",
