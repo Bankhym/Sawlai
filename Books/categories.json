@@ -232,5 +232,18 @@
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mya%20Than%20Tint.json",
       "Pending":"No",
       "intent":"   "
+   },
+   {
+      "Name":"မလေးစကားပြောစာအုပ်",
+      "Image":"https://www.dropbox.com/scl/fi/5pwhyh60d2e83ekzoatoy/2.png?rlkey=h6kv84zfn0pul9he1ekhgls7a&st=x9ebrxlt&dl=1",
+      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Malay.json",
+      "Incoming":"No",
+      "url":"   ",
+	  
+      "Title":"ထိုင်းစကားပြောစာအုပ်",
+      "Photo":"https://www.dropbox.com/scl/fi/h4fu3tdmc9bg9u3xfmw5v/1.png?rlkey=kpejtbgv02nw1y9rmheru2sqi&st=7m2dpfnv&dl=1",
+      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Thai.json",
+      "Pending":"No",
+      "intent":"   "
    }
 ]
