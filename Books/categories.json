@@ -7,7 +7,7 @@
       "url":"",
       
       "Title":"ခင်ခင်ထူးစာအုပ်များ ",
-      "Photo":"https://www.dropbox.com/scl/fi/ledlbistpwnqoeetit5tm/authors.png?rlkey=ijt6ubq3ws97pk1k4cckvvls6&st=x6m9exag&dl=1",
+      "Photo":"https://www.dropbox.com/scl/fi/g0pmgqcq9pssrsc29tu0r/Khin-Khin-Htoo.png?rlkey=f74w7rhgt32cb68ciu4co8mej&st=84wajk9s&dl=1",
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Khin%20Khin%20Htoo.json",
       "Pending":"No",
       "intent":"   "
@@ -129,19 +129,7 @@
       "Pending":"No",
       "intent":"   "
    },
-   {
-      "Name":"လွန်းထားထားစာအုပ်များ",
-      "Image":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Lunn%20Thar%20Thar.json",
-      "Incoming":"Yes",
-      "url":"   ",
-	  
-      "Title":"သုမောင်စာအုပ်များ",
-      "Photo":"https://www.dropbox.com/scl/fi/lgsxqdp7icpzf4toil17f/OIG1.S69GtFqLNSLg.1FsD.jpeg?rlkey=sbms3ok17yu9eadug2t7en6m1&st=uyl4keih&dl=1",
-      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Thu%20Maung.json",
-      "Pending":"Yes",
-      "intent":"   "
-   },
+
    {
       "Name":"အောင်သင်းစာအုပ်များ",
       "Image":"https://www.dropbox.com/scl/fi/1sxou2cek75yic8ryyck3/myanmar-at.png?rlkey=hex3pps5g6fk199u8nve1t41j&st=rnxvsrc2&dl=1",
@@ -245,5 +233,18 @@
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Thai.json",
       "Pending":"No",
       "intent":"   "
-   }
+   },
+	      {
+      "Name":"လွန်းထားထားစာအုပ်များ",
+      "Image":"https://www.dropbox.com/scl/fi/29fwv4vucbb96coh8lua6/Lun-thar-thar.png?rlkey=8m97p4gjawys47h0obpx5kvbu&st=9z80soxd&dl=1",
+      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Lunn%20Thar%20Thar.json",
+      "Incoming":"No",
+      "url":"   ",
+	  
+      "Title":"သုမောင်စာအုပ်များ",
+      "Photo":"https://www.dropbox.com/scl/fi/92xmuys5gok0wk9o36f7u/Thu-maung.png?rlkey=b9j39z4ovrwv9xp0x686bgozv&st=havoyvrl&dl=1",
+      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Thu%20Maung.json",
+      "Pending":"No",
+      "intent":"   "
+   },
 ]
