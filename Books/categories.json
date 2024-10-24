@@ -229,14 +229,15 @@
    },
    {
       "Name":"နီကိုရဲစာအုပ်များ ",
-      "Image":"https://www.dropbox.com/scl/fi/nl6fekfnetw48aa22nymy/papiloen_20241023_173725_0000.png?rlkey=bgwbu8c2wuh85d22vl3fs8vd5&st=pl0x1ppi&dl=1 ",
+      "Image":"https://www.dropbox.com/scl/fi/n3dj1mnkpl00zp2s1nfrf/ni-ko-ze.png?rlkey=d7tmnbd49kibcgsbyd7hz5n1t&st=wg0mmf2d&dl=1 ",
       "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Ni%20Ko%20Yae.json ",
       "Incoming":"No",
       "url":"",
+      
       "Title":"နီကိုရဲစာအုပ်များ ",
       "Photo":"https://www.dropbox.com/scl/fi/nl6fekfnetw48aa22nymy/papiloen_20241023_173725_0000.png?rlkey=bgwbu8c2wuh85d22vl3fs8vd5&st=pl0x1ppi&dl=1 ",
-      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Ni%20Ko%20Yae.json  ",
-      "Pending":"No",
+      "Url":" ",
+      "Pending":"Yes",
       "intent":"   "
    },
    {
@@ -294,19 +295,19 @@
       "Incoming":"No",
       "url":"",
       "Title":"စမ်းစမ်းနွဲ့စာအုပ်များ",
-      "Photo":"https://www.dropbox.com/scl/fi/o6h8dfibzbcy01d7ic22g/papiloen_20241023_170041_0000.png?rlkey=wzxwbti65kdun5ecvprvmkfue&st=e9nybdxa&dl=1 ",
+      "Photo":"https://www.dropbox.com/scl/fi/4np0x8u3fxvrd3rizsl0u/san-san-nwe.png?rlkey=nrvv534umemm79fq2u61tpbec&st=zlhkf0x1&dl=1",
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/San%20San%20Nwe.json ",
       "Pending":"No",
       "intent":"   "
    },
    {
       "Name":"မနော်ဟရီစာအုပ်များ ",
-      "Image":" ",
+      "Image":"https://www.dropbox.com/scl/fi/9hgk0sade6rirbefjct3w/ma-haw.png?rlkey=avosvscoyq9lkydkvhr9s4tw5&st=0wo40cpn&dl=1 ",
       "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Manaw%20Hla%20Ree.json ",
       "Incoming":"No",
       "url":"",
       "Title":"ဦးဘုန်း(ဓါတု)စာအုပ်များ ",
-      "Photo":"https://www.dropbox.com/scl/fi/acdq83y0clp33py2j4gal/papiloen_20241023_171600_0000.png?rlkey=vuo3la6eayhps65p0qha1t5ti&st=eofgco1r&dl=1 ",
+      "Photo":"https://www.dropbox.com/scl/fi/moxld9cgljr27t7vxq9xf/u-bone.png?rlkey=cbbc71sghl16ipjitw6q9zo32&st=uto7ystz&dl=1",
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/U%20Phone.json ",
       "Pending":"No",
       "intent":"   "
