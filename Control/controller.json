@@ -20,6 +20,7 @@
     "slideLoading":"20000",
 
     "maintenance":"No",
+    "top-bar":"No",
     "Categories-hide":"No",
     "newBook-hide":"No",
     "Trending-hide":"No",
@@ -27,5 +28,6 @@
     "mayLike-hide":"No",
     "englishBook-hide":"No",
     "bottom-hide":"Yes"
+    
   }
 ]
