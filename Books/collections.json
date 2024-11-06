@@ -3,6 +3,7 @@
       "Banner":"https://www.dropbox.com/scl/fi/ddbcbgx6vrzlq0rl1uojl/.png?rlkey=zfg7nl7h54k7xqmkrmivupvk8&st=2j7k25du&dl=1",
       "Info":"Zero to Hero!!!\nကြိုးစားနေတဲ့လူတိုင်း ဖတ်သင့်တဲ့စာအုပ်ကောင်းလေးတေွ စုစည်းပေးထားပါတယ်၊ လူတိုင်း ဘယ်လိုကြိုးစားရမလဲ့ဆိုပြီး တွေးနေတဲ့အချိန် ဒီစာအုပ််လေးတွေ ဖတ်ပြီးသွားရန် အတွေးအမြင်သစ်တစ်ခုရလာမှာသေချာပါတယ်၊ ဖတ်ဖြစ်အောင် ဖတ်လိုက်နော်။",
       "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Collections/zero%20to%20hero.json",
+      "Gif":"  ",
       "Incoming":"No"
    },
    {
@@ -13,19 +14,22 @@
 ခေတ်ကာလ  ရောဂါကြောင့်ရော၊ စီးပွားရေးအကျပ်အတည်းကြောင့်ရော လူတွေတော်တော်များများ စိတ်ပင်ပန်း၊ လူပင်ပန်းဖြစ်ခဲ့ပြီး စိတ်ဓာတ်ကျစရာတွေအများကြီး ကြုံခဲ့ရမှာပါ။
     ဒါကြောင့် အပျင်းလည်းပြေပြီး စိတ်ထွက်ပေါက်ရမယ့် ဒီစာအုပ် (၅) အုပ်ကို ဖတ်ရင်း စိတ်အပန်းဖြေလိုက်ကြနော်။ ",
       "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Collections/depression%20should%20read.json",
+      "Gif":"  ",
       "Incoming":"No"
    },
    {
       "Banner":"https://www.dropbox.com/scl/fi/pobyhniqpo30f770b6zu4/.png?rlkey=3gwjmlj7pb7abv3wdqs5ima8e&st=g1srf59w&dl=1",
       "Info":" We are working on this, available soon!",
       "Link":"  ",
-      "Incoming":"Yes"
+      "Gif":"  ",
+      "Incoming":"No"
    },
    {
       "Banner":"https://www.dropbox.com/scl/fi/5rba4tu0ef1kx13d0mkzp/Slider-image.png?rlkey=x02ic2nto6t05e8rrzbjymmtx&st=7v4yuosg&dl=1",
       "Info":" We are working on this, available soon!",
       "Link":"  ",
-      "Incoming":"Yes"
+      "Gif":"  ",
+      "Incoming":"No"
    },
    {
       "Banner":"https://www.dropbox.com/scl/fi/mchh35fk5q7ykrqpmnqvm/you-can-chamge.png?rlkey=d3r16j01ppmw5n8bfuhnbnmlj&st=47z901kb&dl=1",
@@ -36,10 +40,10 @@
 စုစည်းပေးထားပါတယ်။
 ",
       "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Collections/2025%20for%20book.json",
+      "Gif":"  ",
       "Incoming":"No"
    },
-
-{
+   {
       "Banner":"https://www.dropbox.com/scl/fi/969xixt5oat3a4aeo7b9o/Slimage.png?rlkey=kf4kf9976bd9ezd9gsvfp5wyx&st=drvdpexa&dl=1",
       "Info":" Ever wondered how to master influence, achieve inner peace, or harness the power to shape your reality? 
    This collection dives into the secrets of control, resilience, and self-awareness—revealing strategies to influence others, conquer fear, and cultivate lasting mental clarity. 
@@ -47,6 +51,7 @@
    this is your guide to understanding the mind and wielding power with purpose.
 ",
       "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Collections/control%20mind%20people.json",
+      "Gif":"  ",
       "Incoming":"No"
    }
 ]
