@@ -23,30 +23,7 @@
       "Pending":"No",
       "intent":"   "
    },
-   {
-      "Name":"မွန်ဟော်စီစာအုပ်များ ",
-      "Image":"https://www.dropbox.com/scl/fi/1571y7lri14i5flq1n8bf/mon.png?rlkey=av2ocyskvz8r4g25ec1nw1odn&st=bkq049lw&dl=1",
-      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mon%20Horsi.json",
-      "Incoming":"No",
-      "url":"   ",
-      "Title":"လင်္ကာရည်ကျော်စာအုပ်များ ",
-      "Photo":"https://www.dropbox.com/scl/fi/dzkb9qkjqkfumzwgrb3no/lengor.png?rlkey=xmaikte40v806njwy8rasdw2y&st=ciheucvk&dl=1",
-      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Lanka%20Yae%20Kyaw.json",
-      "Pending":"No",
-      "intent":"   "
-   },
-   {
-      "Name":"လရောင်ကျူးရင့်စာအုပ်များ",
-      "Image":"https://www.dropbox.com/scl/fi/dyxja4goa0enp6lev5hzy/auths.png?rlkey=acnasnay0nlncx1huorqjbylw&st=kxt308gw&dl=1",
-      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/La%20Raung%20Kyuu%20Yint.json",
-      "Incoming":"No",
-      "url":"   ",
-      "Title":"မင်းလူစာအုပ်များ",
-      "Photo":"https://www.dropbox.com/scl/fi/ledlbistpwnqoeetit5tm/authors.png?rlkey=ijt6ubq3ws97pk1k4cckvvls6&st=qkjje9wv&dl=1",
-      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Min%20Lu.json",
-      "Pending":"No",
-      "intent":"   "
-   },
+  
    {
       "Name":"နွမ်ဂျာသိုင်းစာအုပ်များ ",
       "Image":"https://www.dropbox.com/scl/fi/rvjijy7d05k4o76512rs7/myanmat.png?rlkey=ocv7oi9kv4o9d075ihpnbqct2&st=vjoozcn6&dl=1",
@@ -464,6 +441,30 @@
       "Title":"အက္ခရာစာအုပ်များ ",
       "Photo":"https://www.dropbox.com/scl/fi/44j6fkp9uvvcgdo9f7h21/alphabet.png?rlkey=c4mtkjy9xkjq2vl4mjaodn1g8&st=y71oc4qf&dl=1 ",
       "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Ak%20Khara.json ",
+      "Pending":"No",
+      "intent":"   "
+   },
+    {
+      "Name":"မွန်ဟော်စီစာအုပ်များ ",
+      "Image":"https://www.dropbox.com/scl/fi/1571y7lri14i5flq1n8bf/mon.png?rlkey=av2ocyskvz8r4g25ec1nw1odn&st=bkq049lw&dl=1",
+      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Mon%20Horsi.json",
+      "Incoming":"No",
+      "url":"   ",
+      "Title":"လင်္ကာရည်ကျော်စာအုပ်များ ",
+      "Photo":"https://www.dropbox.com/scl/fi/dzkb9qkjqkfumzwgrb3no/lengor.png?rlkey=xmaikte40v806njwy8rasdw2y&st=ciheucvk&dl=1",
+      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Lanka%20Yae%20Kyaw.json",
+      "Pending":"No",
+      "intent":"   "
+   },
+   {
+      "Name":"လရောင်ကျူးရင့်စာအုပ်များ",
+      "Image":"https://www.dropbox.com/scl/fi/dyxja4goa0enp6lev5hzy/auths.png?rlkey=acnasnay0nlncx1huorqjbylw&st=kxt308gw&dl=1",
+      "Link":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/La%20Raung%20Kyuu%20Yint.json",
+      "Incoming":"No",
+      "url":"   ",
+      "Title":"မင်းလူစာအုပ်များ",
+      "Photo":"https://www.dropbox.com/scl/fi/ledlbistpwnqoeetit5tm/authors.png?rlkey=ijt6ubq3ws97pk1k4cckvvls6&st=qkjje9wv&dl=1",
+      "Url":"https://raw.githubusercontent.com/Bankhym/Sawlai/main/Branches/Min%20Lu.json",
       "Pending":"No",
       "intent":"   "
    }
